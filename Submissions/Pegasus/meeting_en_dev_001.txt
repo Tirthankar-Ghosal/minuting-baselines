@@ -1,0 +1,33 @@
+[person19] unintelligible> the book .<n> [person19] unintelligible> with [person6] the book .[person6] it s there.
+yeah.
+laugh> no.
+laugh> ok, select window, you can select the - ok, i will select like [project6] book.
+now, now...
+you should now see the book.
+now you see the book.
+now you see the book.<n> [person19] ok, um, so i m still missing the introduction so it s stil this, um, this, this (bullets) which i plan to rewrite into the text like one to put this text away.
+and i still didn t touch[person21] hm, hm, hm, hm.
+[person19] what can be added or merge .<n> [person2] hm, hm, hm, hm.[person19] like my understanding is that like writing the book is our own work but i don t know.<n> [person6] hm.
+why would you, why would you refer to your own paper and someone else s paper.[person19] hm, hm, hm.
+[person9] unintelligible> papers as, yeah.<n> [person19] hm, hm, hm.[person19] hm.
+[person6] precisely are that, there s the citation.<n> [person19] hm.
+[person6] anywhere is a paper that we, you have just in, um, you re like the - [person19] hm.
+[person6] then you can say, um, whohever and al.[person19] Okay, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus)<n> [person6] OK, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus)unsupervised method, this is some-, like something what is unintelligible>.<n>Un unsupervised method, this is some-, like something what is unintelligible>.<n>Un unsupervised method, this is some-, like something what is unintelligible>.[person6] so...
+then probing is defined or? [person6] well, these are just notes from my theses proposal.<n>[person9] so i haven t, i haven t read that but, but, yeah.
+it s defined but i don t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah - the past it was these model, is that use for many, many methods, different methods and...
+[person2] (also) the ica tutorial was talking about[person6] and if - [person9] which i don t know from the, from the, the, um, the - [person6] yeah, these are also the tutorial, they re rather (brief)[person6] unintelligible> like the unintelligible> of word embeddings .<n> [person19] unintelligible> like the unintelligible> of word embeddings .<n> [person7] s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization .unintelligible> and al.
+laugh> argue that we should always choose the most complex probe since it will maximize the mutual information .<n>unintelligible> and al.
+laugh> argue that we should always choose the most complex probe since it will maximize the mutual information .<n>unintelligible> and al.
+laugh> argue that we should always choose the most complex probe since it will maximize the mutual information .[person9] you didn t train anything but you re constructing, um, you re like - yeah, like you constructed a supervise data set.<n> [person19] laugh> yeah, i probably have some, um, some things like that and think that i interpret but i didn t know the, yeah, maybe i should comment.[person19] hm, hm, hm.
+unintelligible> across all the chaptures done.<n> [person19] hm, hm, hm.
+other_noise> unintelligible> across all the chaptures done.<n> [person19] hm, hm, hm.
+unintelligible> across all the chaptures done.People in the machin-, um, in, in nlp community started to be interested in interpretability only, only recently .<n>People in the machin-, um, in, in nlp community started to be interested in interpretability only, only recently .[person6] listed several methods and that s, the point of this chapture it that, yeah, unless you like list methods, um, there s no general consensus on what interpretation means .<n> [person6] don't think that it s important to mention who the people are but if you think that it s important then, um, unintelligible> means mention it .[person6] maybe we should say that is - [person6] change the name.
+laugh> so what is that - [person19] yeah.
+for me it s rather some kind of questions from neural word or - [person6] change the name.[person19] when it s just called summary, it s not very clear like suddenly this is all unintelligible> summary of the whole book .<n> [person6] also like looking at the contents attentions and effective mechanism for word element and relations need to be .[person6] and then in the context.
+[person19] then in the context.<n> [person6] also we want the unintelligible> number the things at the beginning in unintelligible> roman numbers unintelligible>.<n> [person6] also we want the unintelligible> number the things at the beginning in unintelligible> roman numbers unintelligible>.laugh> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> un[person19] well it s not unintelligible> [person3] so - [person21] i m too (listed up).<n> [person6] unintelligible>.<n> [person19] when do we have the next meeting?<n> [person19] the whole week?<n> [person19] to the final report if i write it and i can, um, attend, um, to the report - [person19] hm.[person19] hm.
+[person19], you are not here this week and the next week you are here?<n> [person6] or we can meet anyway and - [person9] or you can meet anyway, and discussed the - [person19] hm.<n> [person19] hm.
+[person19] unintelligible>unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible>[person6] unintelligible>.
+these are professors but i don t know.
+let s, let [person2] see.
+laugh> so it s full professor here.<n> [person19] ah, only [person25] is (true) professor.
+laugh> so it s full professor here.unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible> unintelligible>[person9] if we want reviewers who tell us that is unintelligible> writing.<n> [person19] unintelligible> parsing unintelligible> like 90s.<n> [person9] read, read the book and - [person6] and write a book.

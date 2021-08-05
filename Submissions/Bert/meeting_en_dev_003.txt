@@ -1,0 +1,19 @@
+(person3) ensure that i have followed the guidelines that you have sent. so we have to <unintelligible>about the data about the even mission metrics. that i have late available realized by now. (person5) uhm,
+well, i 'm not sure if understand all the details. but it's the <unintelligible>.
+(person5) so actually, 
+why we want to run this [person4] 's tool is that <unintelligible> has actually no real sense run estimating the summariz on the one hand, 
+and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake. (person3) it <unintelligible> this investigation this desert should definitelly go in the background. but ah like a convincing the convincing the reviews about the alignment tool. and maybe <unintelligible>-
+(person5) okay. on these <unintelligible> set uhm i'm not (set) we will evalu- evaluate make. i want to know what  i do myself to be as uhm so af- so as effective as possible. (person5) so you actually <unintelligible>.
+so you you are time limited. (person5) yes, 
+i 'm thinking {laugh}.
+(person3) so okay. so i what i we do now is maybe from tomorrow on works i will start writing like <unintelligible>
+i have already the components nearly. so it start (drafting) and then uhm we will definitely come up with some gaps that we need to killer. (person3) yes, so that is <unintelligible> from my part . it should be some manual score or metric or what. uhm but it from from from my opinion it should not be always the case. and then we think that how to leverage on that. so it could be kind also ano- uhm good training data. we started an hour earlier than normally today. i'm sure if we will have enough money next year for example. and <unintelligible> his girlfriend, who is <unintelligible> annotators. and but especially if we want to know uhm just i don't know where is the data are,
+how they get to the data. oh just the whole process of annotations so for on your sight is the decision how the annotation looks look <unintelligible> where is the data,
+do i send the data, 
+we have once started to put all our data to github,
+but we didn't finish it. so i <unintelligible> by the end of this week you have will you will have answers to all of this. now it seems that our talk is remain aha six minutes remaining. because  i i didn't speak with [person1].
+i had the f- so  i think we ho- we will as- he will join us uhm when we discuss the evaluation maybe,
+not today. (person3) okay, we put that to the agenda,
+like i'm like <unintelligible> so many things,
+so it's the proposal that data for [organization1] 
+and uhm and a tool.

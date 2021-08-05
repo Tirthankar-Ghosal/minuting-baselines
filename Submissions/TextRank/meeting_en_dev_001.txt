@@ -1,0 +1,50 @@
+um, yeah, should i say i, i haven´t read our book for the last week and this morning i couldn´t, i couldn´t read it so i, i have no, um, i don´t know how it is, in what shape it is now.
+yeah, maybe is the, is the cabel from the <unintelligible> long enough?
+[person19] ok, um, so i´m still missing the introduction so it´s stil this, um, this, this (bullets) which i plan to rewrite into the text like one to put this text away.
+now for syntax, um, i split it into constituency syntax, dependancy syntax, some other things that i go (up on) syntax and i (phase) writed in the way that i tried to sumarize the knowledge and then add evidence from the papers.
+um, i took coreference at the separate thing because i see the something beetween syntax and semantics and for semantics, um, for some difference is missing.
+[person19] um, and there is, um, the comparison of individual architecture so it <unintelligible> now somehow and i think [person9] had <unintelligible> that [person21] has a survey re-, related to this.
+so not, not the whole paper but kind of the introduction and related work and i tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper so, um, oh, and [person2] added the centroids, um, you did there.
+and, yeah, and i wrote a conclusion, um, to that´s high level view so, so i, it should be mostly in a good shape.
+[person2] um, i skimmed trough the multilinguality section and i still have the question i, i had in slack.
+[person2] um, should say that, that, that it should be our, our general awork so we can if you want to pretend that it´s like, um, that we present our original work in a context of, of other work then we should explicitely -
+like in i, i feel that in some (herious) like i don´t know historical research is (open) the only thing you do you.
+[person19] it´s not how the person the same authors as the authors of the book anyway so it is like on some <unintelligible> some <unintelligible> even <unintelligible>.
+[person9] yeah, the thing is that if you refer to your papers in the different way then the other papers, the, the whole book looks like more, um, more like, um, that you present your work in context of the other.
+[person2] and the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+like i have other cases where i think that would be authors that doesn´t show anything and, or show something else and i say this in the book so, hm.
+[person2] but the difference is that, that you say, um, this is what the paper says and, and this is what we think and -
+[person2] and, and here you say, this is what the other papers say and this is what [person13] and al say and, and, and it gives a feeling of like, a feeling for the authority of the, of another paper.
+how would you say this cause you cannot really say we when you think we and [person16] but not all of us cause maybe [person6] and [person9] don´t think so because they´re not authors of the paper?
+yeah, um, so, um, so i just but, but briefly over it because i think anyway the plan is that well i, i try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now.
+o-, ok, let´s go from the beginning to the end of the book and, and see what is, what is there.
+[person19] yeah, yeah, yeah.
+it´s defined but i don´t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah -
+for, for instant for gender biass it´s, it´s, it´s, um, the doctor came into the room and mask said that and, and, and you want to test what´s the probability of he and she being the (word) it.
+or <unintelligible> goldberg, um, um, um, probe [project1] for some syntax ability using, using this like, like designing the set of comp-, of syntactically complicated sentences and, and was looking what´s the probability of the, of the correct, cor-, syntactic correctly words.
+[person6] yeah, the point is that you read the model as a (blank ones) only <unintelligible>, usually you can (struct) some interesting thing <unintelligible> that you something about a bit of the model.
+[person2] we don´t refer to that but we can still say in this, in this, in this chapture that, that there is another way of testing the models and, and we are not interested in these methods.
+[person9] which i don´t know from the, from the, the, um, the -
+and i think like the, the women who, women who talks about the behavioral analysis takes like, um, an hour and half from them and she says, what she says can be summed up in like 15 minutes but..
+yeah, but here you can see that like, um, hm, hm, and this is like, yes, like that.
+let´s, um, ah, i can actually share the second screen and now i can move, well, i can move this, this thing here.
+i think most of the, um, [person7]´s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization.
+[person19] in lot of the papers that i see too they seem to kind of the (steam) that if, if just the linear classifire or linear probe then it´s kind of ok.
+[person6] yeah, but then i can show you in the <unintelligible> or i -
+[person19] i know some people train, train a model to do machine translation and they say, yeah, it´s morfology translation to the most of the behavioral, tested on the task for which it was trained kind of.
+yeah, i probably have some, um, some things like that and think that i interpret but i didn´t know the, yeah, maybe i should comment.
+maybe i would let is as it is now and when, when we read it we can, we can comment and then, then we <unintelligible>.
+the worst case for me if, is, if i write it but yeah, i think th-, this is something that, that, that should be mentioned that, um, um -
+[person2] yes, and this is not discussed in, in the nlp community but in the machine learning community and, and this is what i think we should mention.
+[person6] yeah, yeah, yeah.
+[person19] when it´s just called summary, it´s not very clear like suddenly this is all <unintelligible> summary of the whole book cause it looks like another chapture in the second part or maybe the, the last chapture.
+[person9] yeah, the <unintelligible> the book is, yeah.
+[person9] well, this is like the, um, the <unintelligible> for chaptures and these, these <unintelligible>.
+[person6] also we want the <unintelligible> number the things at the beginning in <unintelligible> roman numbers <unintelligible>.
+i, yeah, i start within the first parts, added some of the, some, actual these are, these are <unintelligible> for, from paper, so...
+[person19] yeah, yeah, yeah.
+[person9] to the final report if i writed we already have written it and i, i can, um, attend, um, to the report -
+[person9] so i, if you, if we (thinkg) and, or we <unintelligible> figures well and read it the whole book and comment everything.
+[person9] yeah, yeah, yeah.
+[person19] yeah, yeah, yeah.
+[person9] like <unintelligible> but, um, yeah, but [project4] like some <unintelligible> are the <unintelligible>.

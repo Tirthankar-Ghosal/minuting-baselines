@@ -1,0 +1,50 @@
+so, what i have the microphone that the face mask so it worked.
+so each of the speakers will only like have those sizable blob of information, often, these blobs of information, refer to many details like reports, numbers in those reports as like a providing evidence for the claim, and then the claim comes.
+and then we, then i found the minutes to that and like the minutes.
+(person1) and it's not the the the language itself is not a problem.
+so we have to admit to the participants that this data set is small for the full training.
+but i can easily imagine that all the whole data so that we will have a 50 percent will serve as the test set and 30 percent will serve as the development set and only 20 percent will be for the file unique kind of.
+so we actually should give the the week will retain half of the data of the test set, and will give away half of the data for whatever purpose of the participants would like to use it.
+and they will probably split it in some cross-validation, uh, and do some little bit of file tuning and evaluation on this heldout data set, and then we will evaluate on on this half.
+(person6) and now [person8] came and said that it's really seems to be very, very few, and he had, and he he made a summary of what is used for share tasks.
+if it is only matter of downloading some of the data and polishing it a little, no manual processing of that.
+one should not read the transcript that just to find it in the database, and two were true and the text.
+here is the minutes that we've automatically found and you, and you open that open that and click yes to validate it.
+and so why the framing the guidelines <unintelligible> import this minutes that you should the avoid those kind of minutes.
+(person1) so the the way i see it now is that we should have a like one shared task assignment or well, maybe you have the a and b or.
+(person8) so you mean, uh, these only causing the test, in the frame it is it is just our data and the eu project alright?
+so if we have someone, if we ask <unintelligible> [person7] to download and automatically align, the transcripts and the minutes.
+(person1) i do not understand is hooked up the the the the name of progress on on mine action is unambiguous.
+so you can search for the date, based on the date, and and the title.
+so, i think we should first decide if we do that, and if in case, we do that, how much of the meetings we should get out of that.
+if we do it we should do all and provide it as the training data, because it if doing so if doing this all, it allows us to clearly separate what is the training avoid the evaluation data set.
+and the data set is, it will involve some work indeed, but it should be really done by a cs person by annotators to match the transcripts and the summaries and the minutes.
+by the producer of you, uh, and then you do that, and then compile that in the ohds the various corporate, but you're right.
+something which we have not done for the ohds but the which was needed here, or if we need to search for someone else to the first step.
+(person1) finding and downloading the pairs of transcript and the minutes for all the sessions that are there.
+and then we agregate the subset to the existing data and reach the diversity and we have more data and more diverse data.
+so my big worry is that the existing minutes, which we agree are not very good are still the best ones possible for the sessions.
+they kind of summarize, and then and then and discussion, and they are as summarize, and maybe as well in another way, but not in in a bad way.
+(person6) problem we decided to take the whole [organization2] corpus and to pack with existing minutes, invest money in alignment and kind of programming an end in that direction and published it as a separate.
+let will be the [organization2] sessions summaries corpus, and that will be the transcript and the uh, and the minutes to that.
+but it is on very large set of topics that i think that is the the this corpus alone would be very usable resource.
+it is it is similarly different as the like the title, and the uh, and the abstract.
+one of the assignment would be is do the summarization, but maybe have already figured out what other assignments would be there like tasks, which would be a as as simplifications of this.
+so any pre-training on the cnn, daily mail for the purposes of ami and pre-training on [organization2] for the purposes of our corpus and everything is welcome.
+that in our case would be submissions limited to the training data that we provide for the given a like a track, uh.
+(person1) so we need to find the person who is familiar with wget, and who can download and prepare the corpus.
+so ask him a for a session where he could walk you through the way he download the the uh, uh, the speech part of that.
+(person1) yes, exactly, as as as as as a scripting, that web and downloading it in a way that automaticaly alignes it for you, so that you can use the uh, if you if you escape spaces and others, the dangers characters in the in the titles.
+you can actually use the name of the, you could use the dates uh, like the year, slash, month slash day slash title of the session.
+uh, and maybe with a point, one point, two of their multiple copies, and you can use this as the as the director structure, and you can put the the files there.
+(person6) yes, but should be for example at the end of this should be appointed the end of the challenge.
+this is something that we uh, the session already uh, the the people in that area we find.
+somebody would forwarded because this is what i actually know and i'm afraid of doing not not not clear and so well, just, i'm afraid to make mess in that actually.
+(person6) and i think also that [person2] understanding of it and yours understanding of it are also different, because one for example to begin the transcript and end the transcript.
+to get the, to get the transcript and also to get the minutes.
+(person1) so the key thing is that you will get the pair of html, or actually, this is not html.
+and then you would do that you would populate this there to structure with html of the minutes that you can download.
+so you should only reorganize that into the directory structure according to the dates and names of the sessions.
+so [person8] please processes this, organize it, according to the dates and the names of the sessions.
+(person8) and the the  next job is to have the corresponding minutes for each of those transcript.
+so, it is from the from the from the mt <unintelligible>.

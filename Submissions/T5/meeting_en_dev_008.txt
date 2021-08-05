@@ -1,0 +1,23 @@
+(person6) i – i want to know that how do you have unintelligible>? ehm> is right that [organization2] is not working (for) 'unintellligible' (person5) so how is it possible that some link is working and another doesn't? (person7) i'll send you a link to minutes annotation, so that you can open it now.[organization2] meet is also free for fourty minutes, but i want to unintelligible> [person6] .
+i send a big attachement via some server and link to it, and in the attachement of the e-mail I send him the pre-processed automatic speech reconstruction transcripts .
+(person6) i'm not sure if it's a good option for lo- for our coffee m- coffee meetings .a lot of ehm> docs and data copy (pasted) from [person5] and [person2] contain original agenda of the meeting, which was created before the meeting and partially s- unintelligible> extended during the meetings .
+but on the other hand they contain real names, so they don't have errors in the content .
+so actually they're not worse than the original minutes created by annotators.ondra proposes that annotators send the data to us via (gatehub) .
+but at the moment i do not have any idea hw to technically work with that variant .
+i think that [person5] already decided not to include – not to ehm> let them parallel_talk> work with (getehub), because it deleted the – the team.
+(person6) yes, but after unintelligible> – (person4) .i would not (ask) this persons to push in (gatehub) parallel_talk> in the final repository ehm> to push there anything .
+(person6) i think the same [person6], i absolutely agree with you .
+if the annotators up- upload the minute themselves, i don't know how would i have the control o- over them .i'm a little bit sceptic now, but i really think that at the moment it is not solved .
+i think it's a very good question and i don't think that we have answered it yet .
+this is a manual measure for ehm> automatic (minority)i have never had any experiments with shared task and measures .
+so i – what i am saying is kind of my intuition .
+(person4) there is how most of the like evaluations are done in the community, in the literature .most of the research evaluat- human evaluation in nature language (generation) is done that way .
+i think we should go whatever is available and whatever is (better) to us .
+and then maybe we would also like to do some research on this and come with some (beautiful) matrix .halo: i'm really confused about what the proposal should look like .
+if we are not (believed here) about the alignment unintelligible>, we move in variant b .
+(person6) i don't prepare any basic samples more .in the summary you can keep the bullets, but only with (dashes) it's almost like i said, but you can remove the meta-data, you can put them with ehm> – with a (label) in your unintelligible> brackets .
+(person6) you (will keep) a list with their real full names and their annot01, annot02, and annot03 .
+we are kind of centralizing it and we're makingi'm not sure if i can make unintelligible> but i – at the moment it is very complicated for me to anonymise ehm> all of the files to name general names .
+i also propose some other things but you didn't have time to discuss them .
+(person5) would be – better to have also [person5], i don't know, when he's available .i'm really worried about this team that he's proposing, so i unintelligible> disagree with [person5] about several things .
+(person6) i will write him and you now and – (person4) yes, try to – we try to catch him as soon as possible .:

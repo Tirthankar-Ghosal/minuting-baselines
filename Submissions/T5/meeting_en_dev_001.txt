@@ -1,0 +1,56 @@
+[person19] i haven t read our book for the last week so i can't hear you [person9] .
+[person6] other_language> laugh> ok, you can share the screen with [person2]i don t know if maybe it is a (negotiation) in unintelligible> there s semantics but i m trully ready .
+[person19] yeah, yeah, i have noun gender at semantics .
+i'm still missing the introduction so i plan to rewrite it into sentences .cnn's john defterios asks if we should pretend it s the self as someone else work .
+he doesn't see any unintelligible' opionion with 'we - [person19] we still want to sign the paper .
+"i don t know what is, what is better," he says .[person19] hm.
+[person9] unintelligible> papers .
+if you refer to your papers in the different way than the other papers, the whole book looks like more, um, more like, don t appeal to authority which is not there .[person19] i can see actually this paper i m citing it s [person13] [person27], [person16] .
+[person9] the, the reference has to be there in any case .
+if you consider the paper to be like mostly unintelligible> i think (maybe) you can just write we .[person19] unintelligible> is there.
+[person2] yep.
+we should - [person6] or we should write the book first .
+i don t know how, if this, this could be included somehow or delete it .the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus) [person19] yeah, yeah.
+[person9] so, maybe find anything really special about gpt wri-, written .
+i think there are some to do things there but there are like optional .hm.
+[person6] i don t really refer to any such papers in my chapture .
+we can still say that there is another way of testing the models and, and we are not interested in these methods .
+i want the unintelligible> some (predics).
+[person19] yeah .i forgot most of what i haven t written down since the tutorial .
+[person19] s analysis.
+and [person6] behavioral analysis .
+i think for some reason more like the interactive thing was making thing .i think we have a different approach with the accent on unsupervised methods .
+[person2] yes, i can share this with [person6] and [person9] yes .
+in a lot of the papers that i see too they seem to think that if just the linear classifire or linear probe then it's ok .a few years ago people were assuming that the linear classifire will not memorize and that's a good thing .
+[person6] no con-, no conclusion yet .
+we should explicitly mention that our classification is some what uncommon when the accent un-, unsupervised methods .[person9] i think it s something unintelligible> different .
+[person6] maybe we should follow [person7] in, in classifying like the probing and our unsupervised methods as structure analysis .[person2] hm.
+[person6] yep.
+that, this is li-, like, like the mainstream.
+means from interest .
+if a person cites machine learning concepts that are not people doing nlp, they should be able to comment on them .
+the best thing would be if someone touched it .there is no general consensus on what interpretation means .
+there is only list of unintelligible> .
+[person6] i don t see how that s any relevant .if there is something specifical for nlp, we should say unintelligible> .
+i don m not sure whether there are stories like - [person9] yeah .
+[person6] maybe we should change the name .[person19] i agree to the first, first chapture unintelligible> .
+[person9] yeah, the only chapture of the third part, the third chapture is the summary .
+when it's just called summary, it looks like another chapture in the second part or maybe the, the last chapture, i don't know either .[person19] i think my chapture is unintelligible> .
+[person6] we haven't appendix and the geographic glossary .
+i don't think it will be better if summary were somewhere there .[person9] this is almost finished, so we can read it .
+[person19] maybe should everyone unintelligible> read the whole book .
+i, i - so this is, yeah.
+what is missing is rewrite .[person9] i deleted all the meetings starting the next year .
+[person19] yeah, we can unintelligible> only the, um, only (annulation) i think if i write i can attend to the final report .[person19] i hope that you will comment my chapture in the meantime .
+[person9] and i will participate if i m online unintelligible> .
+the next meeting would be in, um, tuesday .
+at least that's what the calenar says .[person19] unintelligible>.
+i don t know what i am, i m assistant professor .
+[person2] yes, but all four are professors .
+if they're retired, they might have a 'funny' status .
+but i'm not sure (further) why it's for them .[person5] s grant which is also unintelligible> interpretability is his team .
+[person9] maybe better is - [person19] who kind of people we, we re looking for .[person5] has some grant unintelligible> something about interpretability .
+[person9] yeah, we don t know them but yeah.
+we should cooperate and laugh> learn what they are doing but he should learn what we are doing .
+people who know about it will see what is missing .[person6] and write, write the book.
+[person9] i would like to see many, many comments there so that we - yeah.

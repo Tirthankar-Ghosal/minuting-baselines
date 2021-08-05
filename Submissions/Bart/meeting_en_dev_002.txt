@@ -1,0 +1,64 @@
+ (person8) so we are expecting [person8, he has just written an email asked for the address now are we and i have answered him? (person6) so, i'm glad is -.
+There is an appointment on visa embassy, right, right .
+So, i have heard that you are getting your visa soon, yes? (Person8) ehm, okay, and we need to go just now.
+(person1) i just have to leave the office so that i'm not disturbing .
+The meeting was held in a meeting room at an organization called [organization2] and organized 2,000 people .
+The participants were asked to provide a summary of the meeting and minutes .
+The meeting took place at an organizational meeting in the same room .
+The language itself is not a problem .
+The transcripts are very good, i'm sure.
+But the summaries are already boring and creating our own own own .
+There were some speed summarization tasks that were only 80 hours of data, but none of them were for summarization .
+For some for some it was 19,000 hours, and some even even even we found that there were some share task that were just 80 hours .
+The organization2 database is free to download some of the data and polishing it a little, no manual processing .
+The meeting manager asks attendees to share the minutes of the meeting with a screen sharing screen .
+The minutes will automatically be automatically found and you open that open that and click yes to validate it .
+Neuroscientists use a web browser to look at minutes of research sessions .
+The results in minutes look like that.
+The task is very different from what we have in minutes .
+The minutes of the [organization2] corpus are not of parliament .
+The minutes were like some kind of hyperlinks that left to some other things .
+But in some minutes some minutes were .
+leaving to some .
+other things leaving to other .
+things .
+The first test set would be our corpus.
+The second would be this [organization2] just downloaded aligned meetings and transcripts .
+The third, uh, would be ami and icsi .
+The idea is that no one refuse there is no money they could get from you.
+If you are poor, no one the <laugh> file anything against you.
+You really have to make money to like attractive for that .
+The organization's minutes can be found by searching for the title of the document .
+The minutes are based on the date of the day and the title .
+The organisation has chapters that are quite long .
+The group discussed how much of a meeting should be split into 3 parts like short meetings and long meetings .
+Participants made choose divide them themselves and divide them into groups .
+The first step would be finding and downloading the pairs of transcript and the minutes for all the sessions that are there .
+The minutes are there in the web, but they are not variable for us .
+We need to include [organization2] in the share task to make it easy for participants .
+Proposal is to have some people create this work or some of them or the best transcript that we find .
+The content is simply boring that no one will come up with better minutes .
+This corpus alone would be very usable resource, and we should have another, summarization corpus .
+We should invite people to like cross train for in all these tasks, which would be a as as as simplifications of this .
+The search engine has added two more domains to the task .
+The data is limited to the training data that we provide for the given a given a like a track, uh.
+But there was multilingual submissions .
+We still don't have the uniformal format of our data neither .
+Maybe we should first create kind of template, how the file output should look like? We should create a template for the layout the directories or the files? The chat chat chat is currently open .
+The chat is only open to the host and the host .
+A transcript of the chat was pasted through the session .
+We should stick to the xml format that we already have, and we have also consense our own data, um, the speaker diarization .
+We should also learn from [organization2] data .
+The group of speakers discussed how much time will [person7] have to work with and when will he have time for any such of the job? The group then discussed how best to use an automatic script to get the transcript .
+The meeting meeting minutes were manually downloaded manually .
+The minutes would then be organized into a directory structure according to the dates and names of the sessions .
+The call ends with a call from the [organization2] web .
+The call was answered by a member of staff from the organization2 cluster .
+The team is trying to organize the data .
+The first the first is our sources.
+But they are a kind of very slowly downloaded .
+The second is the source for the machine translation work.
+This is the one that we released as part of the parl corpora .
+Psychiatrist: "We will see tomorrow.
+[person7] will join us tomorrow" Psychiatrist says: "This is okay.
+This is okay"

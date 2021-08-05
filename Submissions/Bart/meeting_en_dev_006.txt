@@ -1,0 +1,15 @@
+ The current status is that i have some scripts for converting, data and extracting the most of common words from the data and furthering the words comparing to the dictionary of already known words .
+The scripts are working but they aren't in the pipeline .
+The correct word is idempotent or idemptent (different pronounciation) The most expensive part is the four- file convert- conversion so if you make some reasonable policy about the file naming then you can easily create the non-existent files and then re-do the dictionary from scratch .
+Aims to have two copies of this <unintelligible> interface like two views .
+Suggestions to have green on green ground and that would be used for files which must not leave the the faculty they can't be used .
+Collaboration could start with [person3], the regular data flow .
+If there is a session going to happen, what i would like to- to be able to just like dump the files on you and then you would process them your system will process them .
+The system is working, but i'm trying to make the webster kit connection working .
+The drive one session would be a live test for [person9] on wed Wednesday .
+The meeting will take place right after screening .
+The most important test now is to prepare data for iswslt.
+It should test it on the real data .
+The group is working on the docker images that was shared by [person10] and [person3] The group wants to use a low virtual machine to run docker on some machines .
+The last segment must be the beginning of the sentence it must be <unintelligible> The time stamps need to be used to fix the mediant .
+If you have not filled the youtube doodle for regular meetings, please do so .

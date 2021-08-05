@@ -1,0 +1,39 @@
+the easiest way to replay a lockfile is to create a file with time stamps .
+in all it should appear like get ready and click on the click instruction 3 2 1 click .
+it should be the highest chance that people will see these subtitles.the zoom account is shared across the whole [organization4] of from our building .
+sometimes it happens that that people join and that's why the pins are used .
+(person9) we just click the link i think .i don't know how to stream video but i'm already able to swim an mp4 video file .
+we need something that will work remotely for the project officer and also for other guests he will invite .
+the simultaneous time is the is the problem .the video box takes in input a public m3u8 url .
+and we are able so to stream and simultaneously provide inputs to ab client .
+if you're able to do this then i think this is the best solution .the most critical part is to identify the video file and to start performing test of .
+we will be able to justify in some way lags, not very fast streaming .
+but maybe the project officer will focus on the quality of the provided translation .
+the german segmentation is not as good as the english one .person4 has created the models for the auditing domain .
+"i'm not sure that the austrian german could cause problems for the recognition" "person6" in my opinion thursday and friday is a good idea .youtube iframe will not have the auto play on .
+instead it will show the video, the pre-recorded one that we want to subtitle .
+the subtitles will show instructions .cnn's john sutter talks about re-broadcasting with youtube broadcasting .
+he says there is no practical way to be sure about this .
+"we could only try it and then get banned essentially," he said .cnn's mike downey says it's too risky to test a youtube recording .
+he says we should demo the system transcribing and translating our speech as the meeting goes .
+we should show how badly it like handles non-native speech, he adds .cnn's mike downey says he will propose project officer only thursday and friday .
+he says plan a is crossed, like we don't want to go for it.
+plan b is what [person6] and [person10] will focus on .friday is a national holiday in the czech republic .
+we need to test restarts, but everything can fail .
+be prepared to recover fast is always good idea .in the cruise control gitrepo are stored the [organization5] scripts used to make multiple streamings .
+for example, we did it for example for the french watching session .
+i think that a french one might not work because it uses some worker which exist no more or which are have been obsoleted .the [organization5]'s web server is a web streaming server .
+ffm peg is used to create a m3u8 playlist .
+in order to practice we should be able to write the video playlist directly in the public directory .acati docs streamer is a local apache server installed on my laptop .
+if i publish a file in the exposed directory this is switchable via web browser .
+the streamer writes the output in the ehm stream directory .
+(person10) i i see the window now but there's a huge delay.if we go back to the ehm expose directory we will see that dts files start appearing and being visited .
+this kind of url is accessible through the web browser .
+i'm going to anyhow transmit this video to to guest, right?the project officer will see the demo through the screen so we can present both online text flow and the subtitles of the presentation .
+we can organize still in the share screen put also a vlc for example which plays audio video.
+or we can ask to the participants to connect to the public url .i think it will be interesting to check all the possible problems now together .
+i haven't tested it yet but i will see about that later .i'm on the wrong machine that's why i am not so finding .
+i have sent an e-mail to [person5] and if he responds then we will be able to fix audax quickly .
+[person6] i will not be available.
+maybe we can directly schedule also a meeting for tomorrow ."i drink something wrong in my vocation that haven't yet figured out what exactly.
+where is the problem?" "person7" ok, i hope i will send you as soon as possible the command .

@@ -1,0 +1,155 @@
+um, um, i sumbitted, um, last week, um, previous week, i submitted the paper (i working) to [location3] to [project5], [project5].
+
+so we have the second, second, um -
+
+[person19] hm. [person2] i should the only one hear you, it´s [person6].
+
+when you or he just -
+
+it´s not good and i can hear <unintelligible>.
+
+<other_noise>
+
+hm. [person9] <unintelligible> so made for, for this type of grant of they reffer to their own paper. also like naturally that´s exactly what you are saying. person2] but the difference is that, that you say, um, this is what the paper says and, and this is what we think and -
+
+[person19] hm. [person2] and, and here you say, this is what the other papers say and this is what [person13] and al say and, and, and it gives a feeling of like, a feeling for the authority of the, of another paper. [person6] well that if you consider the paper to be like mostly <unintelligible> i think (maybe). [person6] then you can say, um, whohever and al. it´s probably more but...
+
+[person9] ok, so, um, so who would -
+
+[person19] <unintelligible>.
+
+yeah, um, so, um, so i just but, but briefly over it because i think anyway the plan is that well i, i try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now. [person6] and i still think we should find the better motto. <laugh>
+
+[person9] yeah, it -[project2]
+
+because -
+
+yeah. how much we use gpt in the, in the, in the <unintelligible>.
+
+[person19] i´m refered to it, um, i don´t say much about it, so maybe find anything really special about gpt wri-, written. <laugh>
+
+[person9] so this is already complete, [person6]? [person6] as, as, as i wrote somewhere i´m not sure maybe in slack. [person6] the first part, um, is com-, i think it can be viewed as complete and in the -
+
+there are some to do things there but i think there are like optional. [person9] what is in pca and ica and -
+
+[person6] yeah. <unintelligible>.
+
+[person2] you can write it to the chapture? [person19] we do use them quantitatively (visualisation). <laugh>
+
+which also uses pca quantitatively. [person9] so...
+
+then probing is defined or? [person6] well, these are just notes from my theses proposal. it´s defined but i don´t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah -
+
+the past it was these model, is that use for many, many methods, different methods and...
+
+[person2] (also) the ica tutorial was talking about, about behaviour texting. being predict by [project1].
+
+so this is behaviouristic testing. [person6] i want the -
+
+<laugh>
+
+um...
+
+um...
+
+to do added somewhere after the unsupervised methods because -
+
+[person19] which file? i have my notes from the tutorials somewhere here. i posted a link to this document in the slack. [person6] where is the window with [person2]? and there are examples here and...
+
+oh, behavioral analysis. ok, clustering, clustering, clustering and where is the -
+
+ok. [person6] so, so we...
+
+i think we have a different approach with the accent on unsupervised methods that, that we consider real methods and not just, um, some -
+
+[person2] yeah. [person9] the-, their, their probing, um, methods were all like thing the -
+
+[person2] supervised. [person6] yeah, like most of the -
+
+i think most of the, um, [person7]´s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization. well, there is a discussion but probably no. [person6] well, you´re not testing language modeling if you´re only testing the structure -
+
+[person19] not, not in general but, but you´re using just kind of observing the behavioral on -
+
+[person6] yeah. [person19] the virtual task or sort of you can find data set maybe -
+
+[person6] yeah. [person9] ok, <unintelligible>.
+
+[person19] <laugh>
+
+yeah, i probably have some, um, some things like that and think that i interpret but i didn´t know the, yeah, maybe i should comment. [person9] you can write the probing and -
+
+[person19] probing -
+
+[person9] someone who should -
+
+yeah. <other_noise>
+
+<unintelligible> for my chapture and for [person9] chapture. yeah, i, i´m repeating like in one sentence. th-, this is basically what i was suggesting to add in, into this column. um, for example here i don´t know what the comment means. and there was another one but it´s not here somewhere. it´s [person24], [person26], [person18].
+
+[person6] ok. [person6] they did it way before -
+
+[person19] hm, hm, hm. [person19] <unintelligible>.
+
+[person6] yes, please. [person6] i want them like the -
+
+i don´t think the, the first section should be named background. [person2] the third part is there because it was in a template. [person6] i don´t think there should be this page. [person9] but right now two parts are fine. <laugh>
+
+then we -
+
+[person19] will you merge them [person6] or? like the limit is -
+
+50 is the minimum i guess or? this, this is should be like the story right. [person9] well, this is like the, um, the <unintelligible> for chaptures and these, these <unintelligible>.
+
+<unintelligible>.
+
+maybe it will be better if summary were somewhere there <unintelligible>.
+
+[person19] um, it can be just here, yeah. [person6] <unintelligible>.
+
+[person19] <unintelligible>.
+
+and it´s the same as -
+
+[person9] yeah, it´s the same as <unintelligible>.
+
+[person6] i think the summary is usually not numbered. [person19] hm...
+
+[person9] i thought -
+
+<laugh>
+
+also something. [person9] so were you, you read anything and (ready) comment -
+
+[person6] yeah. [person19] um, so we could maybe <unintelligible> but we don´t want to, right? [person9] yeah, so you can come in next, next week then. and...
+
+and in parallel we can, we can reach all the, all the sections somehow and respond to the recomments as [person6].
+
+and we will see if it´s...
+
+<other_noise>
+
+i suppose the next meeting -
+
+so next meeting would be in, um, tuesday -
+
+[person19] so the 21th i can delete? um...
+
+i will probably not -
+
+i don´t know. so we´ll -
+
+[person19] hm, the meeting after would be ok. [person9] um...
+
+well, [person25] said they should be non <unintelligible> czech, ideally not in czech but -
+
+[person19] <unintelligible>.
+
+[person9] i can see -
+
+i can ask someone from [location3] <unintelligible> your what someone else. or is <unintelligible> if you don´t know about someone who could review our book. [person9] who is not -
+
+[person19] yeah, it´s kind of <unintelligible>.
+
+[person9] yeah. [person9] if we want -
+
+[person19] if we want the reviewers who tell us that is <unintelligible> writing.

@@ -1,0 +1,23 @@
+ and and the other think if now we have to really (mobilize) our efforts tools the proposals.
+(person3) and i   i should be able to get back to all of you uh by the end of the week with the [organization1] data set.
+so actually, actually kind of wait expected that today we will discuss the annotations and these alignment tool by [person4].
+(person3) so the  [person5] like uhm i  late personally i would prefer the shared task to be as simple as possible,  and the in like uhm this (envisioned) to lose the evolution metrics that we are going to propose.
+ because that will be like then then we will mixing up too many things in one in one place.
+(person3) so i'm saying like uhm little skip the fast shared task as simple as possibly.
+and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake.
+and in these keys using the (alignment) could give us a little more than  when at the community.
+yeah, so i would propose that uh before aaa like making the alignment to  part of shared tasks datas get the people on  exceptive somewhere.
+and then we can decide that uhm which which evaluation metrics we can  we can  for the shared task.
+ so [person5] what you do is like want you have the minutes from all of your participants.
+so it start (drafting) and then uhm we will definitely come up with some gaps that we need to killer.
+then i will be late i can i can see that uhm what other things we (require).
+if you say, that standpoint on my hand it's too like uhm give you the bit give you all the  [organization1] data which should be ready, (person3) for the [organization1] data set, you need the data in the form like our [project1] meetings.
+so i think uhm can uhm because i think [person2] was also working on integrating something into the tool (person5) so you, you want to you want to transfer this task to [person2]? (person3) yeah, so one thing that we need to be sure about the tool is like the tool is doing annotators uhm like alignment .
+(person5) uhm, so you (should) think it's come it should come immediately uhm at the same time? (person3) so yes, for example, if you see uhm that (jens) that minutes fix just smaller part of the transcript  but i i me and [person1] have kind of strong intuition that it could help by evaluating.
+because oh yeah what you think in machine translation this alignment tool or alignment metric is uhm like very helps.
+so once the alignment this done then (mix) work.
+so kind of a structured uhm transkript into pieces where one line of summary corresponds to a piece of transcripts.
+i just saying that this is already a good advantage to have smaller pieces of transcripts, and a correspondent summary line.
+(person5) if you want to transfer it if you want to transfer it  to [person2] maybe it would be also possible.
+(person5) well, it is actually okay and and i don't i don't mind it we started one,  (person5) but uhm may i ask [person2] and thirtankar if you could just join to you to together so (that we could) already speak (??about )  on friday and started on monday.
+because [person6] was mentioning that we even to talk [person1] regarding some decision questions.

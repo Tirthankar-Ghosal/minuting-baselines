@@ -1,0 +1,59 @@
+ (person3) hi [person15], yeah, it works.
+(person15) Hi, can you hear me now? (Person3) Hi [person3] Hi everyone .
+(person13) hello everyone.
+(Person13) Hi everyone.
+Participants will have to be available for a questions at 9 am and 6 pm seattle time, so essentially, european time, us time .
+Participants will need to have pre-recorded summary of the results and presentation .
+Participants have to pick which paper to present .
+(person3) says he didn't see emails before monday because we've had a long weekend .
+(person2) says that he basically, basically, worked the thing i think <unintelligible> something and report by monday .
+The eu gives us 2 months actually to to to finalize these numbers .
+We ask for financial tables with the deadline of may uh, for like a testing purposes .
+The only thing is that we're not turn out to see the numbers from our colleagues, all the salaries .
+The numbers will be a- approximate, but it's to test whether we understand each other, and then in july, it would be easy to get the final numbers .
+The reviewer for the report on spoken language translation, which is overseen by [organization7] is also missing .
+Everyone needs to fill this (7.4) Google sheet with all their data, and everybody should contribute .
+(person3) oh, okay, so i'm looking at the sheet.
+(person13) is reviewing, that's [person13] is reviewing .
+The eu has a semi-automated system for getting papers and the eu units open (ira) or something like that.
+(person17) that's (fair).
+The expected number of people at iwslt and?- The project management guide and report on nlp technologies workshop are among the deliverables for the project .
+Organization10 asks for volunteers to review the report .
+The workshop is for people not familiar with nlp .
+The report will be presented at the end of this week or on monday .
+The new congress date is already known .
+The workshop itself will be on the 1st of May to the 3rd of june 2021 .
+The new date is still within our project .
+The best week for the demo would be if around the 15th or the 2nd half of june, essentially .
+The demo will tentatively take place in in on 1 of the days of the .
+days .
+of the  uh, uh, in the .
+2nd .
+half of .
+june .
+There are 2 messages, that i .
+take from this, that we actually should have all our components replicated .
+at some other sides .
+In principle, you can run docker containers without root without root .
+The rootless docker is still insecure in a way because the actual docker stuff is running as root .
+The group has a virtual machine for [organization5] services up and running .
+They also have some some jasper based, but these are not integrated yet .
+The software is just like a virtual machine image, but it takes no time to run it, it's not like you have to call, it doesn't take time to get it running .
+It's hard for me to access, so we've learnt that we must not update the systems before the demo .
+The bomb and power outage put the demo at very big risk .
+Organization5: "We could have destroyed our- the demo ourselves.
+even without the the power outage" The system is being tested under research conditions only .
+The project3 project will be regularly testing a new models and new components in the pipeline, putting all the results into one single table .
+The plan is to have frozen fingerprints and research fingerprints .
+The dry run calls for demo sessions before the demo .
+The main message is that we will have a number of demo .
+dry run sessions again and the date for the demo will be chosen .
+The team will choose and freeze the fingerprints for the .
+demo .
+Proposal: By mid next week, by how many months would you like the project to be extended .
+Proposal for 2 or 3 months extension of the project was discussed by the developers .
+The iws- uh, iwslt  remote presentation remote presentation .
+The idea is that probably [person20] will present uh, that uh, with s- like a s- screen sharing screen sharing .
+A number of doodle pools is to come for the project officer, for the demo and for the .
+regular dry run sessions, where we will also sort out the technical .
+things, we've learnt from iwslt submission .

@@ -1,0 +1,41 @@
+i'm happy to see that it works even without any installation .
+we'd always said that we should download the unintelligible> and our it's very restrictive .
+i haven't done any steps in this, or decisions, i thought you'd ask .person2 has received a request from the main organizers to prepare a video for his project3 submission .
+he still has to look at it and then we have to prepare for the posters .
+over your paper will be exactly um, podcast.
+twice at 9 am and 6 pm seattle time .cnn's john defterios has voted to postpone the eu review until september .
+he asks for the financial tables with the deadline of may uh, for like a testing purposes .
+the deadline is 2 weeks or 3 weeks after the respective month has ended .
+and since the 1st period, which we are reviewing end with june, we cannot have the official numbers earlier than in mid july .uh, we don't expect any problems after this dry run .
+we can't estimate it as sum because we're not know all the salaries .
+eu: "we're going to be able to get the final numbers in july and august"the workshop on nlp technologies was planned and it will happen once once for lay people .
+the reviewer on spoken language translation is also missing .
+if you participated on trade 1st, or after covid 19 outbreak on a kind of online unintelligible> online .when we published a papers and name [project3] is not unintelligible> should be put in this dissemination sheet? (person3) yeah, exactly doesn't seem uh, as a good format really .
+(person19) i don't know what magic happens in between, but there is laugh> .the sum of our dissemination activities will be this table plus the papers .
+ideally, this open (ira) pure or whatever is the way to go .
+there is a big risk, that there will be manual conversion necessary then on our side .the nlp technologies workshop is for people not familiar with the platform .
+i think, across the board, that we are proceeding reasonably well .
+we need to submit all these deliverables by the end of june or on monday .the new congress date is already uh, known .
+it's from 30th of may to the 3rd of june 2021 .
+the workshop itself will be on the 1st of july .the best week for the demo would be around the 15th of june, essentially .
+if we send uh, the options, very early next week, then that would make sense .
+the actually, o- our side is now the least the least safe for this demo .
+we don't really use docker our servers because of these pseudo access needs .in principle, you can run docker containers without root .
+i'm i 'm really surprised, that your it system are just like no docker' i think it would make sense if uh, if we made sure that the asr systems could be run at [organization5] and [project1] .(person10) you don't need to unintelligible> gpu for these systems .
+(person3) yeah, yeah, we could give the punctuator to [organization5] or to someone else .
+the only open point for me is the uh, gp configuration .the demo was postponed because of a power outage .
+but we could have uh, d- destroyed the demo ourselves .
+we should have a production system and a development system, a complete setup .i have not compared it directly against.
+this against our models, that's something else i need to do .
+if it's well integrated, it will be great to to demo it, but it also is a big risk .
+we have lockdirs, which record the outputs, including time stamps.iwslt shared task will cover further language pairs and set-ups .
+fingerprinting uh, is quite good to separate versions of the modules .
+i think we again should start these frequent sessions, where would test this .cnn's john defterios says he has not made any steps to get a little time extension .
+he asks if we want to make use of the covid crisis to get little or longer time extension of the project .
+we will have a number of demo uh, dry run sessions again and choose and freeze the fingerprints for the demo .i've forgotten, all of us are resembling our sort of in term figures .
+we can see whether we're understanding, cause that would be 1 argument for extending .
+by mid next week uh, everybody should f- like fill this table .i'm not sure if [person20] has uh, of the final results paper, which will be published at iwslt .
+if you would like to contribute to that, please send the overleaf link for the slides as soon as you start with that .
+the deadline for the recorded presentation is the 17th of june .a number of doodle pools is to come uh, for offering slots to the project officer, for the demo and for the regular dry run sessions .
+i'm happy and let's proceed like that for the rest of the project .
+(person3) thanks to everybody .

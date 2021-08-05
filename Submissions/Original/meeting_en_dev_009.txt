@@ -1,0 +1,61 @@
+[project1] surge 2020 organization
+thru, jan 30, 2020
+(time?), in front of 423
+
+attendees: [person2], [person14], [person12], [person15], [person4], [person16]
+the purpose: to sum everything that everybody worked on and to enter it in the [organization1] sheet.
+
+the domain adaptation is essential for following sessions
+● a dry-run workshop on 12th of february
+● monday seminar on [project1] on 17th of february
+● student firm fair on 18-20th of march
+● non-native english speakers and the noisy environment - a proper preparation is required
+● profanity filtering is necessary for this
+
+the concept of profanity filtering
+● filter for out-of-topic words and also for bad words
+● possibility to train systems on higher frequency words - a creation of the corpus and limitation to these words required
+● to choose the best option of these three: the evaluation of preservation of quality and avoidance of bad words
+○ the sentences with infrequent words could be dropped
+○ replacement of rare words with forgetting placeholder and to use the rest of the sentence
+○ to use filtering on monolingual setting only and to use back-translation 
+
+[person12]:
+● 1970-2019 pdf files from the [other1][organization5]
+● the data needs to be clean from duplicate sentences and other useless values
+
+[person4]
+● compression - adding the command to decompress audio
+● working on multi-source model- how to put [project2]
+
+[person16]
+● the evaluation framework is finished
+● it is needed to test it
+● time and word-based segmentation 
+[person5]
+● the adaptation of [location4] asr for [person3]’s talks - domain adaptation of language model, the acoustic fine-tuning
+● good results were achieved - a lot of domain-specific words were recognized
+● currently, work on the new [location4] asr version - it will be trained on more data
+
+[person15]
+● asking about compression - [person15]’s asr is also able to work with compression
+● the sound segmentation
+● some words were cut at window boundaries
+● the actual implementation works for windows from 4 to 8 seconds - searching for the most probable pause between words and cut the window between it
+● waiting for [person18] to test this new segmenter.
+● segmentation has to respect speaker boundaries - two-more speakers cause overleaping the sentences in the window
+● the training of the transformer converting the phonemes into graphemes 
+● bad results obtained - it was trained on corpora for casual speech
+
+[annotator3][person14]
+● work on paraphrasing - it is done, and it is working properly
+● waiting for a virtual machine for the paraphrasing server
+● a plan to start doing a visualization of the sound input
+
+fast-speech paper on asr from [organization3]
+● 300 times faster for asr - the delay could be eliminated
+● to check if the code is available and to integrate it
+
+minutes submitted by [annotator3]
+
+

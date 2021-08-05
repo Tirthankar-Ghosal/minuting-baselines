@@ -1,0 +1,18 @@
+ (person4) so if you can scroll, to where i am, yep, so executive summary.
+(person4) yeah, so that's a, that's a good question about the [organization1] presentation.
+(person4) yeah, okay, great, so then if you click on our icons, either mine or or [person7]'s.
+and, in the [organization6] sheet i'll put, the link to the source which is here.
+(person7) well, i have a  of course i have several internal documents describing, for example, the architecture, the function analyses.
+(person7) preparing, i will be really happy if overleaf documents start compiling but it's not problem.
+(person4) on that was discussed on the [project1] call, so i'm and remote call the standard consortium wide thing.
+ok, so we should ask [person1] and [person2], and, yeah, i'm emailing colleagues in [organization2], and [organization4] who of them could review the the deliverable.
+(person4) i think two pages could be enough, because it's primarily a demonstrator and not the report.
+(person7) we will also avoid  world functional analysis because, you know, it is really verbous.
+(person7) we need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works.
+we would like to  the elg paper from that and the elg paper is due next friday, feb 21.
+(person6) you will need to create special password for overleaf, but then it probably should work.
+and [person6] please follow the structure that [person7] well, have suggested in that overleaf.
+(person4) um-hum, well that's bit tech but the pdf got created, didn't it? yeah, and now it's, now it compiles seamlessly, and i'll do one more thing.
+(person6) hi [person7], this is [person6], i'm actually [person4]'s colleague from you know back like 13 years, actually remember me and him taking some some lecture.
+(person7) yep, i i cloned the git repo, i've just pulled all the last modifications.
+(person7) oh, don't worry, i also do not remember my  manager, which one is, but just give me one second.

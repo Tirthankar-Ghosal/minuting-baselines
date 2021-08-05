@@ -1,0 +1,16 @@
+the speaker adaptation data collection interface is being developed by the surge 2020 organisation .
+i would like to know how to share the data with [person3] so that the data actually makes it to the models .
+in the coming weeks we want to have a benefit from that and that it will be included in the particular systems .we expect directories to grow in time so we just dump them to the- yes,yes .
+if you make some reasonable policy about the file naming then you can easily create the non-existent unintelligible> files and non-existence segment files and then re-do the dictionary from scratch that is not too expensive .i think that around march you should be able to have this running .
+i suggested that we could have two copies of this unintelligible> interface like two views .
+one of the views would be green on green ground and that would be all the files which are non-sensitive .
+there would be another layer of that which would be like copy of that uploaded interface .i'm trying to make the webster kit connection working .
+on wednesday the drive one session is more important .
+and on monday from one we have like pre-drive one .i'm working on unintelligible> speech consilation and i now re-check if we can convert empty moduls to work on prefixes .
+i think most important test now is to prepare data for iswslt .
+by me and [person1] should finalize this test now and that's all .cnn's mike downey says he was busing transcribing recordings that was share by unintelligible> .
+he also fixed a tool that capitalized the first letter for proper nouns but he still need to do this manually .
+upey: i would again try, since we got the docker file for that as well.
+i'm very much afraid of running docker on some virtual machine.eb plan did not support the doodle unintelligible> for regular meetings .
+if you haven't filled the youtube, please do so .
+it's quite important that everybody enter themselves for specific things they have done .thank you, bye bye

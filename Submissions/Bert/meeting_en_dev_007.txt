@@ -1,0 +1,21 @@
+(person4) so [person7], wan-
+
+(person7) <unintelligible> or hear. but i'm sure that we do want to include our platform there. (person6) connect from the laptop, but i already was in this you know application, so i wonder what the problem is, sorry for that. and actually it is called still d00 deliverable template. <unintelligible>
+
+web based publishing platform be developed, so if you are looking i'll copy that. from <unintelligible>.
+
+it is says there is this task, it doesn't work. (person4) then there was this screenshot, and that with some description should be sufficient. so this the continuous reporting [organization6] sheet. and i'll tell them, so the, when could you two have it, because you two are, you two are providing most of the content, and the more important content, the [organization1] won't tell any any details anyway. and so on, i was just to arrange something in order to summarize. and, but i will spend the afternoon putting the info inside, and also on monday, well actually we are really <unintelligible> to them, deliverables, so don't worry. we are also preparing trying to prepare at least, the acl paper. (person4) and the progress to the template. (person4) yeah, the workshop at <unintelligible>.
+
+(person7) yes, we are working, trying to figure something goes for these kinds of publication, and we will ask your feedback next week for sure. so i've just emailed you, i've assigned it to you its its a [organization6] assigment in a [organization6] doc 
+
+and it has links to, those menus, not links sometimes not links sometimes only descriptions. (person7) we will also avoid <unintelligible> world functional analysis because, you know, it is really verbous. <laugh>
+
+and it doesn't provide that much. maybe 
+
+(person4) i think it is interesting. offline, and during the last week of february. i should work on that to fix that compilation, but you can work on the plain text content already, and it compiles outside of overleaf. he doesn't, he cannot really, really clone it. so there it's, there is the menu, there is the menu, top left corner while you are in overleaf. (person6) i'll play with it, i'll create my credentials. (person4) so the short message is that if you clone it. so your platform is is describe to some extenting in the demo paper. <laugh>
+
+(person4) i'll modify the make file as long as you don't have any references, i'll simply avoid bibteching them. so make filed, this is zero zero two as six one. so now it like compile seamlessly for me, 
+
+(person6) yeah, i see, sorry, i actually looking at the paper. just the, you know, part part time collaboration to keep. (person7) i will work on-, exactly <unintelligible>.
+
+(person6) and then they say insert package name. (person7) in order to, well overleaf will work as git repost, that i can commit my modification and pull your modifications locally. (person6) it maybe even, it's actually it's it's working so maybe easier to working online, so maybe it's easier to without, without that.

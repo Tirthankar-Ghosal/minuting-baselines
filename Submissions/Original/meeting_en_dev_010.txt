@@ -1,0 +1,113 @@
+[project3] remote meeting 
+thur, the 6th of june 2020
+attendees: [person3], [person15], [person21], [person4], [person2], [person8], [person20], [person1], [person18], other participants from [organization7], [organization5], and [organization11]
+
+organization of the iwslt presentations
+- there is organized a panel and there will always have 2 time slots for the presentation of the papers.
+- the papers, also the presentations, can be pre-recorded.
+- decision that one panel is enough and isn t needed to organize another one.
+- will be needed to have probably pre-recorded summary of the results, presentation.
+- will be received a request from the main organizers to prepare a video for the [project3] submission.
+- there is only one slot to present the overall results and the rest is hopefully done across all the tasks.
+- latest proposal was that paper will be exactly podcast, twice at 9 am and 6 pm seattle time.
+- different speakers or papers will be pre-recorded, 20 minutes poster, 5 minutes pre-recording talks.
+- use of the iwslt shared task to chose the best systems and also to validate, whether the evaluation is screwed up or whether it is actually correct.
+- ask for send the overleaf link for the slides as as soon as start with overleaf for the slides.
+- the deadline for the recorded demo is the 17th of june.
+
+postponed review
+- it is needed to figure out the date.
+- because the review will postpone till september and is needed to get to project officer a new date.
+
+financial tables
+- this is a preparation for the new official submission.
+- normally are the final numbers provided at the earliest 2 weeks or 3 weeks after the respective month has ended.
+- the 1st period, which is reviewed end with june, it is not possible to have the official numbers from our part earlier then in mid july, or towards the end of july.
+- the [organization4] gives us 2 months actually to finalize these numbers.
+- the financial tables are asked for with the deadline of may for a testing purposes.
+- also there is double check that are sent the numbers that we understand and then can put together.
+- that everything makes sense already before the final dates.
+- expect that at the boundary of july and august, there would be needed paper with necessary and especially in respective financial departments.
+- [organization10] is missing but doesn't expect any problems.
+- the only thing is that it has be done by finance department.
+- [organization10] financial department will be connected to [project3].
+- the numbers will be approximate, but it's to test whether we understand each other.
+- then in july, it would be easy to get the final numbers.
+
+nlp technologies
+- it is needed to chose the reviewer for the report on nlp technologies.
+- it could even be [organization10].
+- because it is a workshop, which was planned and once it happens for lay people, so for people not familiar with nlp technologies at all.
+- the reviewer on spoken language translation is mentioned in [organization3] doc.
+- then were chosen [organization10] review person.
+- also is chosen reviewer for the project management guide initial and updates.
+
+report and dissemination
+- report, that has to be written by [organization10], but everybody should contribute their data.
+- ask for make sure to enter all dissemination activities remote, or in person, which obviously was limited, into the continuous reporting table.
+- more input is needed, especially in the scientific dissemination part and the workshop and nlp technologies.
+- the workshop actually did not take place.
+- there were preparations, when did any dry run sessions happen, what was the planned content of the workshops, or the like the the workshop as package is essentially ready.
+- it was just not delivered because the covid crisis.
+- ask about published paper in dissemination sheet.
+- regular paper submissions, which have a conference presentation, would not put them into this table.
+- put here all the things that are not associated with the paper.
+- the table with the papers will be sum of the dissemination activities.
+- put the papers into our bibliographical system.
+- examine what has to be done, and it will be get known in a week or 2 the format of the papers.
+- assignment for uk - figure out the official format of the papers and system, which already handles these papers.
+
+overleaf
+- all the main authors responsible sites know the status of each of the deliverables.
+- reminder that it should be done essentially by the end this week or on monday.
+- then it should be sent it to reviewer of the deliverable, reviewer has 2 weeks to processes that and then there is 1 week to incorporate the changes.
+- it is needed to submit all these deliverables at the latest on the last of june.
+
+workshop preparations
+- inform about confusing milestones report.
+- it is needed to find out what exactly should be done for an event, which has a milestone, but the event has not taken place.
+
+congress date
+- new congress date is from 30th of may to the 3rd of june 2021 and the workshop itself will be on the 1st june.
+- ask for block these dates.
+
+demo
+- [organization5] waiting for the all-clear report and with all service have come up successfully again.
+- some of the file service are still doing file system checks, but it should be back to operation walls.
+- there should be the new date with the project officer.
+- ask for prepare internal pole and quicly filling.
+- best week for the demo would be around the 15th, in the 2nd half of june.
+- it is not needed to check the demo because it is regularly checked.
+- important message is that there actually should have been all components replicated at some other sides.
+- the system still weren't provide to the others.
+- actually, our side is now the least safe for this demo.
+- there were proposed a dockerisation.
+- the docker weren't used our servers because of these pseudo access needs, and it has been done on some virtual machines.
+- recommendation to said that have to a route once to set the permission on the docker socket and make user part of the docker group, but after that there is not needed to run docker.
+- in principle, there can the docker containers run without root.
+- it system are no docker on cluster and they have virtual machines, which are okay for running docker.
+- because we have the asr systems for czech, that's [project5] based, also some jasper based, but these are not integrated yet because of the missing segmentation.
+- and there is [person9] or [project1] systems.
+- agreed on made sure, that the asr systems could be run at [organization5] and the translation systems in [organization7].
+- [project5] and punctuator are cpu based.
+- for space, or another virtual machine is the only open point gpu configuration.
+- there must be replicated components across the site.
+- it is needed to avoid updating the systems before the demo.
+- there should be a production system and a development system, a complete setup.
+- the production system has to be stable without any new segmenters, any new updates for a long period of time.
+- the pipeline is pretty complex and is sensitive to all the little details.
+- ask all the partners to avoid doing any updates to their workers shortly, perhaps two weeks, before the demo.
+- aside from the the bomb and and power outage it [organization5], this also put the demo at very big risk.
+- but it is candidate for a thing, which if it work an if it was well integrated, it will be great to demo it.
+- there is also working on the [project3] test set, which will cover further language pairs and set-ups than the iwslt shared task.
+- ladder climbing needs that we'll be regularly testing a new models and new components in the pipeline and putting all the results into one single table and that will tell us, what is our current best technology for this particular set-up.
+- the fingerprinting is quite good to separate the versions of the modules.
+- the frozen fingerprints would be then the thing to demo.
+- starting with this software engineering request to properly separate diploid versions and then the proper staging of the systems.
+- this would allow to directly evaluate, which systems are the best.
+- the main message is that there will be a number of demo, dry run sessions again and the date for the demo will be chosen, and will be chose and freeze the fingerprints for the demo.
+
+time extension
+- agree, that by mid next week everybody should fill the table by how many months would you like the project to be extended.
+- decide on june 8th and ask for the extension before june 15th.
+

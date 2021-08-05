@@ -1,0 +1,35 @@
+ (person6) yes, he has just written an email asked for the address now are we and i have answered him.
+if at least the meeting runs as we expected it, to round, then we can do our own minuting.
+so it would be like a contrast, if summary a non-standard, an alternative summary of the um, for the ami meeting.
+and i don't know [person2], [person2] and [person8] and [person4] bla bla.
+we are in different languages that for also kind of complication, this is then normal speech and normal dialogues, but they are translated so -.
+(person6) and now [person8] came and said that it's really seems to be very, very few, and he had, and he he made a summary of what is used for share tasks.
+in speech translation you uh, or uh, or uh, or speech recognition 2 hours are what you want.
+but if if only half survives, which will give us 50 hours of english and uh 30 hours for czech then dividing this half and half, it's 15 meetings of the like if your score would be just one word scroll like a good or bad.
+they would have to use [organization2] data from fix year and say that we see, you must not be used in the training, for example, something like that.
+(person8) so the only thing is [person1]  that minutes we have, or [organization2], i .
+um, uh, and uh, if you get all the name identities right then probably you -.
+(person1) so the the way i see it now is that we should have a like one shared task assignment or well, maybe you have the a and b or.
+and then uh, we are also uh, like extending the coverage for the [organization2] sessions.
+and for [organization2] i don't think that the annotator who would be doing this alignment, could cover substantial number of these meetings.
+can we download that data and will make um, like  then as the test set training to the participants,  yeah, we have some chapter id some document from the [organization2] corpus with the name of the chapter.
+uh, because the previous example, that have shown the title was like voting on the previous session minutes.
+(person1) so uh, [person2], the way you obtained this open acces or the the open academic corpus.
+by the producer of you, uh, and then you do that, and then compile that in the ohds the various corporate, but you're right.
+they kind of summarize, and then and then and discussion, and they are as summarize, and maybe as well in another way, but not in in a bad way.
+(person1) yeah, yeah, yeah, you were speak for the benefit for [person2], not like -.
+but in case you, you needed any suggestions on how to like get through these what form so where, then he will probably know.
+and then when we looked at that, we realized that we do not have any structure and there for example.
+(person6) and, so, it should probably look kind of similar our basic symbols and [organization2] data set.
+(person6) yes, but should be for example at the end of this should be appointed the end of the challenge.
+and he now knows how to preserve everything essentially uh, but we don't need that at the point at the moment.
+(person6) well, it's really in your head.i don't have i don't have any idea.
+(person6) and i think also that [person2] understanding of it and yours understanding of it are also different, because one for example to begin the transcript and end the transcript.
+and then me and [person8] will start the processing the conversion, and then [person8] would finish that.
+(person8) so at this work i would first try to do use to find an automatic script.
+and test it with just txt output but then we probably move to something which preserves more of the  details.
+and then you would do that you would populate this there to structure with html of the minutes that you can download.
+and uh, then will to discuss what in what way do we need to like rename it or whatever.
+(person6) probably, well, now we decided that [person8] will work with the data.
+and, then, after after we have prepared it from from google ask somebody to correct it or some -.
+(person6) we have a  with, which can be heated, but it's not heated now.

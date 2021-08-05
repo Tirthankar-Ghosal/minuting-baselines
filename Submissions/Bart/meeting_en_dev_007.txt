@@ -1,0 +1,33 @@
+ The main scoop of this meeting, should be to define a kind of structure of the deliverable documents .
+The documents should be only on the presentation platform, because they are <unintelligible> publishing platform.
+But actually, then please confirm me.
+The chat window is now open, but the chat window isn't working .
+The chat has a chat window, but it doesn't work on the overleaf link .
+The text is written in the text, and the text is re-used as a paragraph platform .
+Acl demo paper is important to describe internals in some way, but also to describe the internals behind the scenes .
+We need to follow, the requirements in the description of work and the d platform updates, the six, is it publishing platform it's called demonstrator .
+An internal review has to be internally reviewed and normally we give ourselves two weeks, which is today .
+We probably don't have anyone to, anyone who would've volunteered to, review this.
+The [organization1] won't tell any details anyway.
+We need the reviewer, who could we ask, it ideally someone from [organizations2].
+Someone from [Organization4] or [organize2].
+The reviewer should be someone from the organization, so i'll tell them, so the, when could you two have it? The deadline is, we have just a week.
+We should have our full content ready by wed Wednesday.
+We will ask your feedback next week for sure for sure.
+We have two days to reuse reuse the content of the paper for elg and [person6] you were not on the not-on-the-call call.
+We need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works .
+The content should be there towards the end of the next week .
+The elg paper is due next friday, february .
+The project was created by a group of people in overleaf .
+The project is currently in beta and beta .
+Proposal: Use the second strategy to directly ask organization to review my, my understanding of the platform .
+Proposal suggests that you are suggesting that you'll write it right away.
+Proposal is based on the original of the acl demo paper, right? This is [person4]'s colleague from you know back like 13 years, actually remember me and him taking some some lecture, probably 2000 or something .
+He's kind of understood to get the latest changes first, then he push it on later .
+You might need some <unintelligible> package manager manager, which one is, or is it maybe just up to get something .
+You can say, you can say the b t tlmgr.
+or i'm just looking into, something on the internet .
+The group is trying to find a package that tells you if you have a different package to load instead of it .
+The problem we are going to be kick of the from the, the room, because usually, it lasts one hour .
+(person7) i think that, that probably you will write something much better that what i can able to provide to this document, so don't worry.
+(person6) thank you very much and hear from you later .

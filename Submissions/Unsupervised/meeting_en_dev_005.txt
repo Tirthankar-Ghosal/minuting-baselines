@@ -1,0 +1,29 @@
+ the idea is you usually bypass the mtray- m3u8 url putting the frame in the [organization5] server which expose also the ssl certificate.
+then we could set up an account for you so that there would be a net cut solution, like a horrible one.
+so so i agree with what [person6] suggested that [person4] and [person12] should focus on the selection of the input.
+while [person7] and [person10] and [person6] will focus on the on the technical aspect.
+so the plan b, that i have with [person7] is that we will use this standard youtube included youtube iframe within the presentation platform.
+[person6] i can also explain [person7] how to to send let's say a free text to presentation platform through the- and if there could be client it's working, i'm now putting it together with the other piece of the pipeline.
+(person9) well, i think it's very good to explain how badly it it like handles non-native speech.
+(person9) and [person4] and [person12] should select the video and test the the performance.
+and one thing that i also wanted to talk [person7] is that we really need to test restarts.
+(person9) yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting.
+well [person4] and [person12], we are going to work on the technical set up.
+[person6] in the cruise control gitrepo are stored the [organization5] scripts [organization5] scripts used to make multiple streamings.
+in the set ups directory are stored all the [organization5]'s scripts used in the various testing we did during the project years.
+then i'm going to search for something for you [person7] in order to pipe text to the presentation platform.
+is it possible for us to look in on the https web server, the [organization5] the [organization5]'s one? (person7) yeah i think so, but i will be using basically 2 machines during the demo.
+1 machine to run the set up and the other machine i think to inter- to talk with vs.
+then run ffm peg in order to create the m3u8 playlist which is a standard to for for web streaming videos.
+(person7) so could you demonstrate how the plan c which you're doing on your localhost right now? [person6] ok, i can explain you one half the part which involves the ehm video streaming.
+[person6] and the second part is the one who's working on [person10] in this moment.
+(person7) aha ok so it's like kind of frame window which is being updated every second or every few seconds.
+[person6] i can put it also in vlc, for example in vlc you can open the network stream.
+for example we can organize still in the share screen put also a vlc for example which plays audio video.
+[person6] if i, because, for example, if i'm joining the the conference call.
+[person6] in fact in my opinion putting everything on a different machine letting the demo run remotely.
+(person7) so i i have sent an e-mail to [person5] if he responds then we can add him for few minutes in this meeting.
+[person6] yea.
+unfortunately i have still just i have just half an hour and then i have to leave unfortunately.
+(person7) i think [person3] [person3] is responsible responsible for so, we actually need to book zoom meeting slot.
+(person7) and you will for plan b it is so so you will show me how to insert test text into the [organization2] presenter [organization2] presentering.

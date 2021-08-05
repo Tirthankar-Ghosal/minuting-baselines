@@ -1,0 +1,37 @@
+<another-language>
+
+<other_noise>
+
+(person2) we still didn't have [person1].
+
+i'm not sure if he will connect
+
+i expect him to connect. <parallel_talk>
+
+document we are talking about -
+
+so our probably -
+
+so so the point of of these meetings is that everybody very loudly says and enters in the list actually in the in the google sheet, that is more important, the number of items that you have worked on and that you think you deserve some <unintelligible>.
+
+so that's the that's the point of the meetings. so briefly describe all what you did what do you think deserve some <unintelligible> because it is usefull for at the all all of that. so it is a practise in selling your homework. so that's thats one modification for this. so two weeks from now and a little bit later. and then the the important big event that i wanted to talk about is the students firm fair thats something which we have done only last year. and we were only reusing the system from [organization4] and it went for single minute of the two days. so - <laugh>
+
+so that's an invitation for for well domain adaptation because we don't know in part no no in part but kind of -
+
+we may know the names of the companies at least and maybe some description live up what is their core bussiness or topic of business. (person7) sometime that united interrupted because -
+
+so this is the picture. (person2) ok, so so what would be your collaboration with [person6] then if you if you were available? (person2) so for the english or for both of them these are languages anyway so there the adaptation by [person6] make sense it's good to put this into the collection and start organizing the collection. but one specific question i had was regarding the profanity filtery and give after [person3] <unintelligible>.
+
+so let it circumstance we had that the that is not actually <unintelligible> that is not supposed to be a prophane what coming up. so it just made up a follow low frequency pattern which was unreliable. so -
+
+(person2) so the bad thing -
+
+[person15] is on the call. the bad thing is that i haven't heard from <unintelligible> -
+
+a okay. and that is important to know for some future corpora what will not have the time stamps. so in this case i can convert the second we can use it but we can discuss about it later. is there any trajectory to how have together? whenever you think it something big and i think this the improvement [person3] talk it's very good one so definitely deserve to be listed. and it will be applied to all asr systems? and -
+
+so so if your assistance -
+
+i belive could evaluated yourself as well supportly or if your assistance will be already included and delivered stable output which is the problem that we still have. but the results were at least for at least for some [organization2] talks they were really bad because the the corpora on which the transform were trade was trained is for casual speak and and fairy tales and so on. (person2) the problem is that we don't have speaker diarization on (fly) so we simply do not know when there is a speaker change. so you are in touch with some other colleagues from here who are actually <unintelligible> today. i know is that still -
+
+(person2) it is still deleted. (person9) okay, if it is still deleted then i can then i can started next week.

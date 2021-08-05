@@ -1,0 +1,25 @@
+ The goal of office would be obviously to describe the pipeline say where there problems and to invite more people to join us .
+The date i think the date is possible the 17th february .
+There is two events which have the same type of adaptation as we will need for nlp and [project1] on the 12th and the 17th of february .
+An important big event that i wanted to talk about is the students firm fair .
+This is one of the to do or wanted items to add some filter and f- populated what words that we don't want to show at all .
+This is something that we have a months or more for that .
+The list will never be complete and it will contain many word which we actually like would like to have an as the output or as the input .
+The idea i have in mind is to train empty systems on corpora which are refind to contain only higher frequency words so like safe word corpora or safe vocabulary corpora .
+The tool that does this filtering should actually be regularly checking this has appearance some list .
+The bad thing is that i haven't heard from <unintelligible> -.
+The team and now i me and [person8] working on the paper for (exceptement) maybe we should do it after lunch or maybe in the morning .
+The language model is being used in a new version of the czech asr system that should be trained on even more data .
+We have limited volume and we have limited file only in [location4] transcript .
+The audio is compressed to mp3 then shiped as mp3 to network and then decompress before being sent to the asr .
+The question is what effect does this have on the quality of the sound quality .
+The transform-hallucinated some words .
+The problem is that we don't have speaker diarization on (fly) so we simply do not know when there is a speaker change .
+The windows overlaped sentences and this causes some problems too .
+The last person we have here today is [person14].
+He has already worked on the project last june when he was helping us to put all the (byplan) together .
+He can participate only remotedly and there for also whatever he does has to be like self contain as little interaction with others as possible .
+There is one thing that isn't exactly important i don't know important maybe but then i just saw it today.
+It's very similar to audacity recording chanells except it is not recording .
+Psychiatrist: "Thank you much.
+Thank you much" (person5, 5, 10, 10)

@@ -1,0 +1,29 @@
+and maybe i'll ask you before anybody else is <ehm> (connecting),
+<ehm> how is it – how does it work with the link? (person6) okay, <mmhm>.
+thank you, thank you. (person5) <mmhm>
+<unintelligible> said that he had another meeting <ehm> before <ehm> a- 
+so from doodle so – so – th- th- an hour before – before that. so, [person6], so <unintelligible> let discuss some things, okay? (person6) <mmhm> <mmhm>
+(person5) so, i – i wanted (to note) that –
+<ehm> so, (i didn't know) <unintelligible> –
+it was like –
+(i don't think there is) <unrecognisable_speech> there is the – <ehm> everything i <unintelligible> clean manually corrected transcript as well as <unintelligible>.
+is that correct? (person5) oh, it is (already) free for one hour. <unrecognisable_speech>
+(person6) you really have to follow if nobody else is – s- needs this hour for their teaching,
+so it's better to have something outside. (person6) <unintelligible> not to give them the original minutes. (person6) this is <ehm> just what [person5] created duri-
+the agenda for the minutes. (person5) this is just for the reference of the annotators. but after we change it –
+so we didn't change anything yet, so actually <ehm>, probably you have to change it. <ehm> so [person5] proposes that annotators do that themselves. (person4) like if the annotators up- upload the minute themselves, so –
+(person6) actually i'm not really fine with that at the moment, because for me – <ehm> i should think it over and i didn't do it yet. so i don't know how would i have the control o- over annotators. i would not (ask) this persons to push in (gatehub) <parallel_talk> yes. now it's absolutely okay, that we just send them the data. and if needed we would <ehm> kind of build it on the- <ehm> – on the existing system. (person6) <mmhm>
+(person5) great, so, we do alignment, <unintelligible> fine, the manual <unintelligible> are done, but what is the final output? (person6) <mmhm>
+(person5) so how are we going to use the alignment in evaluation? <ehm> do you think that we should include what, evaluation measure? (person6) <ehm> <unintelligible> i don't think about it. (person4) there is how most of the like evaluations are done in the community, in the literature. (person4) i'm really sorry, i didn't follow you. (person5) <ehm> i'm talking to you <unintelligible>.
+(person6) <laugh>
+(person4) so, <laugh> i'm really confused. (person6) <ehm> i kind of don't know what to say. i have understood what is <unintelligible> that [person5] was speaking about. yeah, it's how we should do the shared task and –
+(person6) <ehm> <parallel_talk> yeah, so – <parallel_task> so, <ehm> what i wanted to discuss <ehm> is probably <ehm> the format of the basic sample trial. so for now i don't prepare any basic samples more. (person4) so this is – i think this is the <ehm> –
+so it's almost like i said, but you can –
+i said to remove the meta-data,
+you can put them with <ehm> – with a (label) in your <unintelligible> brackets –
+(person6) yes, meta-data and dashes, dashes is important. (person4) so it's – it's almost the same, so the format is stable <unintelligible> –
+(person6) yes, this is –
+well, i think i will have to discuss it with you before i begin once more about some details. (person6) yes, yes, <mmhm>.
+(person4) i think for this we are okay, but we didn't have time in the morning to discuss about some other details, like <ehm> anonymisation of – anonymi- anonymisation of the names of this annotators. there is nothing to do in the gatehub for you. (person6) or i can <unintelligible> friday and <unintelligible> again,
+i have (web seminars <unintelligible> thursday –
+(person4) probably, tomorrow morning or evenyou want today afternoon or some time? it would be very good to have also [person5] (to seome things). could someone please provide <unintelligible> to my lock?

@@ -1,0 +1,50 @@
+(person4) yeah, so [person8] has sent the overleaf, well one overleaf link, and also the link to the github prepositary where we have the template is normal directory.
+(person4) so i'll try to figure out what's wrong here, because it's, it works kind of on my machine.
+but the question is whether you can also, whether you are happy to work like without the overleaf interface with this, i guess it is it should be not a big problem for you.
+(person7) no it's not, ehm, for us the main scoop of this meeting, should be to define a kind of structure of the deliverable documents
+but actually, i intended that the documents should be only on the presentation platform, because they are <unintelligible> publishing platform.
+we have to put them also the [organization3] presentation platform, and the [organization1] presentation platform, in the documents.
+the only thing that i can do is, and it's the it's, the overleaf is somehow strange.
+(person4) yes, so this is this is a sharespace, this is the sharespace that we can use to uh, to discuss the structure.
+(person6) connect from the laptop, but i already was in this you know application, so i wonder what the problem is, sorry for that.
+let's simply use it as, like, use it as our deliverable, and then we will, once we get it compiling we will make it again the template.
+you will also get your cursor next to the us, it's on the top ab review, and next to that there is, there is.
+so we can discuss the structure of this deliverable, and you already know the acl demo paper, so definitely please read that, and i think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+(person4) yeah, so, so that's an important thing, this deliverable is going to be i'm scrolling, well it doesn't say so, but we need to follow, the requirements in the description of work and the d platform updates, the six, is it publishing platform it's called demonstrator.
+so please talk to, it should not be too difficult for [organization1] either, because they need one screenshot, which was already available in some preliminary version for the review, review meeting, if you remember, if you still have the slides.
+so i always email i think [person11] is, [person11] and [person5], that always need too long time to contact the the people who actually know.
+(person4) yeah, please email all of them and say, and please tell them that actually, we are quite late with the preparation.
+yeah, we don't have anyone to revi-, yeah, so i'll push you [person7], i'm now looking at the [organization6] sheet, i'll again paste the link so that you can easily get it to the chat window.
+and i'll tell them, so the, when could you two have it, because you two are, you two are providing most of the content, and the more important content, the [organization1] won't tell any any details anyway.
+(person7) well, i have a <unintelligible> of course i have several internal documents describing, for example, the architecture, the function analyses.
+but uh, i think that it's important to have a kind of the same structure for all three platforms.
+and, but i will spend the afternoon putting the info inside, and also on monday, well actually we are really <unintelligible> to them, deliverables, so don't worry.
+(person7) yes, we are working, trying to figure something goes for these kinds of publication, and we will ask your feedback next week for sure.
+(person4) so that would get us like two days to, so we could reuse that for the for the paper for elg and [person6] you were not on the not on the call.
+so [person6] here are the deadlines for the two well user style work shops where we want to reuse reuse the content of the six one.
+ok, so we should ask [person1] and [person2], and, yeah, i'm emailing colleagues in [organization2], and [organization4] who of them could review the the deliverable.
+pictures are fine, also to prove that it's, it's something that exist and it's not only written on documentation.
+i don't think that there is anything that we need to discuss at the moment, because we have the document.
+i should work on that to fix that compilation, but you can work on the plain text content already, and it compiles outside of overleaf.
+(person4) yeah, so, but you are looking at the link, so you can click the menu button which is on the left, at the top left corner.
+there is dropbox and there is git and you click git, and it will give you git clone command.
+you will use your normal overleaf credentials, so please click it and double check that you can clone it.
+so there it's, there is the menu, there is the menu, top left corner while you are in overleaf.
+and most importantly, send an email to [organization1] already today, asking them to ideally have it there by wednesday and if they totally like refuse or whatever if they say "well, we can do it in two months from now" then please look up your slides from the review, and like briefly sketch a paragraph for them.
+so just use the screenshot, which is in the review slides and a paragraph where you describe, what do you know how it behaves.
+so have separate section on that and provide again some screenshots, screenshots are  already in the acl demo paper.
+where i, there is probably a link in the email for for the original of the acl paper, right?
+(person4) i'll modify the make file as long as you don't have any references, i'll simply avoid bibteching them.
+and if you want to commit, which is important and to to do properly, and then type of make space ci and have a look at the goal in in the make file, because the commit actually
+so if people are editing, it will become impossible for you to commit your work, because pull and push, they will always have some change.
+(person4) ok so [person7], if that's all, let's, i'll disconnect, maybe you want to discuss something more with [person6] or not, but i'll disconnect and i'll try quickly debugging that's editing.
+(person6) hi [person7], this is [person6], i'm actually [person4]'s colleague from you know back like 13 years, actually remember me and him taking some some lecture.
+in order to, i missed the part regarding the, how to commit, how to compile it.
+(person7) oh, don't worry, i also do not remember my <unintelligible> manager, which one is, but just give me one second.
+(person6) i'm just sending in the conference chat, i'm just sending the, the link to the wikibooks what i've just saw.
+(person6) no problem, so i what i'm doing right now, i'm putting in the piece from the acl paper and i'm going to copy even the screenshots that were there, so that it kind of compiles.
+(person7) in order to, well overleaf will work as git repost, that i can commit my modification and pull your modifications locally.
+(person6) it maybe even, it's actually it's it's working so maybe easier to working online, so maybe it's easier to without, without that.
+so you see those version and the screenshots in a while, i'll just finish it and then i probably work on it like over night or something, but i guess.
+<unintelligible> a note if you think i should modify something, i actually don't feel like i should be the final one to dictate what's in there.
+(person7) i think that, that probably you will write something much better that what i can able to provide to this document, so don't worry.

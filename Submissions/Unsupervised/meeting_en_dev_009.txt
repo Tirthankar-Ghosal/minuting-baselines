@@ -1,0 +1,11 @@
+ and that that aplies also to [person14], [person15] and [person5] of course.
+(person2) ok, so so what would be your collaboration with [person6] then if you if you were available? so i used two different segmentation for this, one is timebase and second is wordbase anyway everything is almost ready.
+ (person2) but for for the evaluation we have now something that we can do  we will actually sometime.
+(person2) so no, we have only one recordings translated into [location4] and [other1].
+so i've experimented with various technics and especially like domain adaptation of a language model and then acoustic fine tuning on [person3] talk.
+(person2) so that's something that we're just testing and [person1] said that he would evaluated.
+[person1] has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and then decompress before being sent to the asr.
+so so are you waiting for [person18] also please getting (dash) with [person1] because i think that [person1] made be more responsive these days.
+ (person9) okay, if it is still deleted then i can then i can started next week.
+if you don't get any response from [person18] even after the weekend then please make sure to to like treasure ask for that yourself without waiting.
+so, i think that's we should stop again today it's then spent more time we wanted.

@@ -1,0 +1,50 @@
+ehm, i have an appointment on visa embassy this friday .
+i'm gathering all the documents right now .
+it's australian horrible.
+because of covid the officers are like semi open .
+we found most of the talk talks extremely boring .i think that more importantly, we should definitely have the uh, have ami and icsi data in there .
+the problem is ami is also that it is very different from the point of view off summaries .
+if at least the meeting runs as we expected it, we can do our own minuting .the official summaries are already boring and creating our own .
+i would find that very useless.
+(person6) useless .
+the week will retain half of the data of the test set, and 30 percent will serve as the development set .there were no speed summarization share tasks for a long long time .
+if only half survives, we would have 25 hours of evaluation for english and 30 hours for czech .
+15 meetings is already representive enough for me, i would say .if [organization2] comes for free, it is only matter of downloading some of the data .
+we can take corpus from 2006 to 2011 and add minutes that can be found .
+for one meeting i don't know it will take something about 5 to 10 minutes .for some minutes, just listing who mange, who like contributed discussion is sufficient .
+and uh, again, it is what way to prevent that our because we have spontaneous speech .
+(person6) yes, i can see your screen sharing .i think it makes sense to have this as a contrast of task .
+but it is very different and the question is if to do that, that increase the data, of course, not -.
+(person6) together as our data.
+but when we want today, because we want to decide if we do that or not .in some minutes some minutes were like hyperlinks that leaving to other things .
+so we need to assured that guidelines who avoid those kind of minutes .
+we should have our corpus, icsi and ami track .all the sessions that we put into the test set should be from one particular year .
+it would be better to download it all and align it fully automatically and provided as the training data .
+if you are poor, no one the laugh> file anything against you .there was only one session in that period found in those five years .
+i think people didn't think about repeating and not repeating because they're quite long .
+do we know from your parl date of the session? (person6) yes, yes .i think we should do all and provide it as the training data .
+if it is very short it is it's different task .
+it allows us to clearly separate what is the training avoid evaluation data set .a cs person should be able to match the transcripts and the summaries and the minutes .
+the minutes are not variable.
+they are not useful for us .
+i think that you are one of the people who prefers to have other data sets in the share task .i think that as [person2] has this several releases of the open academic summarization corpora, we should have another corpus .
+let's be the [organization2] sessions summaries corpus, and that will be the transcript and the uh, and the minutes to that .
+and it is on very large set of topics that that is the the this corpus alone would be very usable resource .(person8) yes, and we should invite people to like cross train for in all these tasks .
+(person1) yeah, i'm happy to sign again yet, or? (person2) yeah, we have now added 2 more domains to the task.person1 is familiar with wget, and who can download and prepare the corpus .
+"i have never done this many times in the past.
+it would take a does," he says .
+at the moment, we don't have the uniformal format of our data neither .the daily transcript is a written version of each day's teitok exam .
+use this transcript to help students with reading comprehension and vocabulary .
+at the bottom of the page, please share your feedback about our tests and news stories .teitok uh is developing a web brow-, like browser for big corpora .
+he has gone through decade of corpus annotation .
+we should stick to the xml format that we already have .the daily transcript is a written version of each day's czech transcript .
+use this transcript to help students with reading comprehension and vocabulary .
+at the bottom of the page, comment for a chance to be mentioned on cnn ireport .the best way is to start from [organization2] and reorganize them .
+you would only want to copy the files that [person6] is browsing now .
+we can ask [person2] again to put the whole corpus to the server .i think now we need to really organize, right? (person8) i will continue annotating my our data with my annotators .
+and, after we have prepared it from from google ask somebody to correct it or some -, but let's that later, not at the moment .
+(person6) i have a link man.
+there is a text file there .the first the first is our sources, but they are a kind of very slowly downloaded .
+this is the one that we released as part of the parl corpora for machine translation .
+(person6) this is 2006 till 2011 .
+i think do we unintelligible> on major decisions .

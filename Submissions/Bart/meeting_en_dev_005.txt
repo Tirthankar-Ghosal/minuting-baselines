@@ -1,0 +1,51 @@
+ The first session was broadcasted in English and Czech .
+The audience was listening to a group of people who could not hear each other .
+There was a pin on the zoom account, but there was no one there .
+The pin was used to allow people to join and that's why the pins are used .
+We still have this strange person m, i don't know who that is .
+The idea is you usually bypass the mtray-m3u8 URL putting the frame in the [organization5] server which expose also the ssl certificate .
+Then on the server run ffm peg command which streams the video file and both provides the inputs to an ab client client .
+The video box takes in input a public m3u8 URL and simultaneously provides inputs to ab client .
+At this point we can let the video be playable both from a common web browser, vlc, because also vlc take input network streams .
+The project officer will focus on the quality of the provided translation .
+The most critical part is to identify the video file and to start performing test of- a machine translation on cascade .
+The translation model may work better for the auditing domain .
+The german segmentation is not as good as the english one, but it was ok .
+The schedule for the project officer has been identified 3 possible days which are t Tuesday, th Thursday and friday .
+The plan b, that i have with [person7] is that we will use this standard youtube included youtube iframe within the presentation platform .
+The idea is that people would select all the languages and then they will see the subtitles telling them scroll back to the starting point, if the if the video has already started yet .
+The presentation platform has its own worker so that we can actually call directly the worker .
+The plan a, the re-broadcast casting on [person10] side, is plan c .
+The call to ffm peg can also output the video streaming playlists .
+There is no practical way to be sure about this.
+We could only try it and then get banned .
+It requires a completely different set up, respects to the one we are preparing for the file .
+The most of us, including the project officer, none of us is is a native speaker .
+The audio is not related to the videos, but it does not pass through the service architecture .
+The sound was coming from [person7]'s output, not part of the subtitles .
+The plan a is crossed, like we don't want to go for it .
+The meeting was adjourned on Thursday, tomorrow tomorrow afternoon .
+The project officer said that both we online text flow and the presentation platform are developed for face-to-face conferences .
+In the cruise control gitrepo are stored the [organization5] scripts used to make multiple streamings .
+In the set ups directory are stored all the scripts used in the various testing we did during the project years .
+The idea is to log in on the [organization5]'s web server and test everything directly in the final machine .
+We will be able to stream the video on a public URL and provide input to ab client with its libraries .
+The presenter asks [person6] to demonstrate how the plan c which you're doing on your localhost right now .
+[person10] is testing this idea of plan c, thank you [person11].
+The presenter says he needs a few minutes to recap our stream text .
+The example acati docs streamer is a local apache server installed on my laptop .
+The streamer takes an input the file boris zero one zero one mp4 which is the video file i would like to stream .
+The video is being updated every second or every few seconds .
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation .
+The presentation should be publically available available to the host persons of the meeting .
+The presentation platform and online text flows are meant to work in locally and in face to face conferences, not meant for work .
+The idea could be to check together all the possible problems .
+We need to be able to access to the published to the public server .
+We will be to fix audax instantaneously .
+We have one linux client in the [organization2] platform in the organization2 platform .
+We need the client c client to run remotely .
+We need to book zoom meeting slot to test zoom on zoom .
+We also need to schedule a meeting for tomorrow .
+If you would like to join us, you will know where to find us tomorrow .
+The source language for the meeting will be English .
+The video file would be german for the video file it would be German at least .

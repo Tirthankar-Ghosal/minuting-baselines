@@ -1,0 +1,49 @@
+
+date: 2020/07/13
+attendees: [person6], [person19], [person2], [person21], [person9]
+purpose of meeting: book review.
+
+summary of meeting:
+
+[person19]
+- inform that his part of book is ready to comments, except introduction and morfology.
+
+[person2], [person19], [person9], [person6]
+- discuss referring to other authors and using own older paper.
+- agreed on adding the reference.
+
+[person2]
+- give to the others an idea of his chapters.
+- discuss how the neural models work, talk about the architecture and presents notable models.
+
+[person6], [person9], [person19], [person2]
+- first part can be viewed as complete.
+- discuss unfinished parts as probing, unsupervised methods and mention methods for visualisation.
+- consider mention of behaviour testing.
+- agreed on follow [person7] in classifying like the probing and our unsupervised methods as structure analysis, and then the behavioral analysis is something different.
+
+[person6], [person2], [person19]
+- clarify mentioning and meaning of nlp people and machine learning people.
+- agreed to mention in introduction it is about thinking general, not only nlp.
+- if it should be better to specify it could be mention even if there is not agree on importancy.
+
+[person19]
+- will check list of figures.
+
+[person9], [person19], [person6], [person2]
+- discuss who could review the text.
+
+
+next meeting will be on 21st july.
+
+
+
+
+
+minutes submitted by: [annotator2]
+
+		
+
+
+
+

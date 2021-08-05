@@ -1,0 +1,26 @@
+ (person2) well, we have to pick which paper, uh, probably one paper i guess.
+(person3) yeah, which i've failed to doing time because i had other things as well.
+and we'll see uh, what what comes out and we'll let you know maybe already now.
+uh, then there is uh, uh, time enough to have all the numbers in their final form.
+at our institutions, we normally can provide the final numbers at the earliest like 2 weeks or 3 weeks (person12) hi [person3],  um, um, i'm in here from [organization10].
+so then the most important, uh, stuff to deal with is the large- pretty large set of deliverables.
+(person19) we- i mean, we have- [organization7] had fill in our papers and think of .
+and we'll let you know in a week or 2 uh, in what format we need your papers.
+it would be a good thing uh, anyway to uh, to see each other in in person.
+so i would like to ask [person4], what is the curr- and and also [organization5].
+but i think that it is now good time to uh, to ask for the uh, date, then uh, the choices validate from uh, the uh, 2nd half of june would make sense.
+uh, we are able if i'm not mistaken, to run some of the [organization7] mt systems.
+uh, so and they have like virtual machines uh, which then are okay for uh, running docker.
+only in emergency, but ek- as as [person20] said, uh, and yeah, i also had that impression.
+(person19) yeah, i mean [person3], you're you're basically asking again you're asking for sort of more professional software setup.
+because i know, that [person14] had something which could be very uh, very promising for the asr, right? (person17) uh, right now right now that's text (based), still that's right now on- only for the for the mt side.
+um, and uh, i would uh, like to have this this ladder climbing approach finally starting.
+but at this point uh, i hope, that uh, uh, that [person1] is on top of this  uh, now, since uh, a new date for the demo will be uh, found out.
+so i don't know if [person8] is aware any date until we should make our uh, mind.
+(person3) yeah, that was awhile ago and and i haven't (followed) up on that, so.
+(person19) and by now, all of us are kind of- i have to, i've forgot, (person2) i i wouldn't i wouldn't be again is like an extension for 3 months or so - (person2) but but it  of 1 1 thing uh, 1 year extension, i probably don't see the purpose .
+(person3) yeah, so that's a question mainly for [organization10] and [organization11].
+or would it h- would it be bad for you to to ask for 2 or 3 months uh, of extension.
+and then, i uh, i've already talked at the beginning with [person2] about iws- uh, iwslt  remote presentation.
+uh, [person20], uh, are you planning to or do already have an overleaf for the slides, or not yet? and uh, the idea is that probably [person20] will present uh, that uh, with s- like a s- screen sharing uh, recorded with uh, little not avatar, but [person20] [person20]s head himself in in the corner of of the slide.
+then i think, everybody should now be uh, pretty busy with uh, write up of the deliverables.

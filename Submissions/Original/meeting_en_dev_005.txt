@@ -1,0 +1,48 @@
+date of the meeting: 22.5.2020
+attendees: [person9], [person6], [person7], [person4], [person12], [person10]
+name of the meeting: demo preparations, discussing the plans and speculationg about the best one.
+meeting creator: [person9]
+<summary>
+
+-what the demo will look like
+--a goal is a shared screen visible for all users (project officer and all invited guests) at the same time.
+--create the stamps, use replay scripts and make subtitles in all languages and be available for all the guests.
+--ffm peg streams will be run in the web server.
+---the problem can be identification of the video and start of the test and machine translation on cascade.
+--during demo 2 machines will be used: one to run the set up and the other one to talk with vs.
+--the project officer will see the video through shared screen with vlc, video can be put into a presentation platform or beg the participants to connect to the public url.
+--to provide sounds to clients they set the sound input to the sound output and run the record on loopback sound device.
+--project officer will focus on quality of the translation.
+--the suggestion is to start the show and recognition at the same time.
+--transcribing and translating the speech as meetings go.
+
+
+-demo set up methods
+--re-broadcasting with youtube.
+--using youtube included youtube iframe within presentation platform.
+---it shows a video and the pre-recorded one will be substitled and then show the intructions.
+--the idea is to log in on the [organization5] server, bypass m3u8 url and put it on the web server, that exposes ssl certificate then upload video, make it demo and run ffm peg to stream the video and provide output to start the transcription.
+---ffm peg needs to be installed to run the pipe on [organization5] server.
+---running the slt system while streaming is using too much internet connection.
+
+
+-testing the set up
+--first there would be the instructions and the injection would stop release the worker and the pipeline will start.
+---needs to be tested to avoid delay.
+--german tedx talks were tested with the current best set up.
+---the english segmentation was better than the german one.
+--using youtube subtitles (that has a human and automatic transcription) with translations would be a good solution.
+---there can be a problem with accents of languages so the recognition can be misleading.
+--they need to test connection fails to know how to recover from it the quickest.
+
+
+-conclusion: findings, complications, optimizations, decisions
+--[organization2] mediator can make translation of one language, gitrepo would be better option for multiple translations.
+--if they use youtube there can be some problem due to youtube fair use.
+--showing how to insert test text into [organization2] presenter.
+--providing sound outputs should be working through t command.
+---a solution if they could not create a public fronted url.
+
+minutes submitted by: [annotator1]
+
+<summary>

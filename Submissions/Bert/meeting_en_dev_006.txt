@@ -1,0 +1,31 @@
+<another-language>
+
+so it- it would be great if you could quickly explain what is your current status of the speaker adaptation data collection interface that you are-you are working on and the document the [project1] surge 2020 organisation and add in one or two points that mention your name and the one that i would like to specifically focus on is the "regular" data flow from you to [person3].
+
+and what i mean by that is that i would like in the very few coming weeks that you two are in close touch and whenever you [person11] have some data in the system then you know where to- like how to share them with the- with [person3].
+
+so that the data actually makes it to the models. so this is something that is- it is like the final part the final stage of what you are developing. so that this final integration is actually he most stable and best tested part. so my question is whether you have already started looking at this or not. the structure of the <unintelligible> will still evolve,so we need to be flexible with that but we are discussing what is the best way for them to give us all these files and i said that in march, in a month from now, we should hopefully be able to propose to to suggest interphase where they could upload the files and if the some restructuring of the folders we can do it behind the scene and then tell them ok,now the directories are-are updated to your current agenda and please keep uploading the files again. that around march you should be able to have this running. yes- yes, after the i have-i have school basically, i will be busy on thursday. so maybe also some set up on the apache that needs to be done. so, yeah, i will then send it to her maybe early next week she should know, so that we can- we can <unintelligible>
+
+and this documentation that you are sending to [person9] that is also related to their- to the document that she sent where there were the functional requirement on the presentation platform or not? i probably need to read once again your message and the-
+
+yes. no not yet exactly so this <unintelligible> to start it. [person4] sent me some files from - i think <unintelligible> something like that so i-
+
+i think i started to download them and re-check if they- i can convert them to our suitable forms. and also <unintelligible> i will check the light files so- <unintelligible> send me to them morning and i just-
+
+i think we should <unintelligible> most important test now is to prepare data for iswslt. like- yeah, so-
+
+<unintelligible> don't know it how to do that and yesterday i with help of [person4] and it department fixed- <unintelligible>
+
+i mean, that yes our <unintelligible> on to run the <unintelligible>
+
+so that was good move
+
+so did-
+
+so we can totally run <unintelligible> on monday, we can start everything ourselves-
+
+yes, so the docker, i'm working on the docker images that was shared by [person10]
+
+so we don't have the segmentor yet. because we cannot turn too many segmentors from the laptop. so if-
+
+so recall it's low proposing pits frequently.

@@ -1,0 +1,49 @@
+<transcript>
+
+
+
+(person9) hi, does it work? (person7) no it it doesn't work for me so i tried to create some fake time stamps and try to emit this like kind of instruction message so my it didn't work for me. so-
+
+
+
+(person9) so the easiest way is to replay. (person9) let's hope that they are recording it by themselves. but we are now struggling with the set up. and the simultaneous time is the is the problem. prepare the ffm peg command which streams the video file and both provides the inputs to an ab client client on the server. and run a record on this like loopback sound device. please i ask all the other i see there is also [person4] and [person12].
+
+
+
+please try to identify the good video file suitable for this kind of demo. so the the channels that we have or the videos that we have recommended was this [organization3].
+
+
+
+and for that the translation model may work better. (person12) so 2 thoughts about that video. because it's very stage recording the person speaks much more clearly than the tedx speaker. while [person7] and [person10] and [person6] will focus on the on the technical aspect. we identified 3 possible days which are tuesday, thursday and friday. [person6] in my opinion thursday and friday because once we-
+
+
+
+(person9) yeah, let's go for thursday and friday. so the plan b, that i have with [person7] is that we will use this standard youtube included youtube iframe within the presentation platform. and the plan a, the re-broad casting on [person10] side. [person6] yes, he is talking about the plan c.
+
+
+
+(person9) yes, he is talking about plan c, exactly. there is no there is nothing more than a gentleman agreement. we could obtain from the original uploader. but then that does not it does not protect us from any 3rd party claim. but others, if we do this if we do the meeting in german, sorry the meeting in english. i i would-
+
+
+
+[person6] i i did-
+
+
+
+well it sounds just risky in my opinion. this is just this is just the that [person7] needs to start the machine to follow the sound output whatever is being played. is also immediately recognized and sent to the like in the in the pipeline. [person6] ok, so that you are already able to catch the audio from the let's say-
+
+
+
+(person9) we have done that we have done that in the past. so when [person7] was talking it was not part of the subtitles. but so so plan a is crossed, like we don't want to go for it. plan b is something that [person6] will very quickly help [person7] with set up. so that we know when to invite [person13] for the next test. [person6] did we even have national holiday, [person10]? [person6] so that probably it will not be a problem to see some kind of-
+
+
+
+(person9) yeah, exactly. (person9) yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting. (person12) well if i have video that i think would be good but i can test it on our set up. meanwhile maybe it could be interesting to. but in order to practice we should be able to write the video playlist file which is the m3u8 directly in the public directory. aah, ok, this, my internet connection is not that stable unfortunately. (person7) could you demonstrate the plan c which you're currently having-
+
+
+
+[person6] ok, i can explain you one half the part which involves the ehm video streaming. but i can share with you my screen maybe. [person6] ok when i run it, it starts preparing smaller ts files which are the segments of the playlist. our real is more fragment of video of 3 seconds. i can refer to the index m3u8 file which is the the index of the playlist. [person6] this kind of url is accessible through the browser. so that it will be much more seeable for users to access to the hts source. it pretty works we nee- we just need to tune the the pipe. [person6] or we can ask to the participants to connect to the public url. even if internet connection will at some point fail. actually both presentation platform and online text flows are meant to work in locally and in face to face conferences. are not meant for work for live streaming. >
+
+
+
+(person7) ok, then i think if we have no more to discuss anything. [person6] because it's really really something stupid that i'm not getting exactly what it is.

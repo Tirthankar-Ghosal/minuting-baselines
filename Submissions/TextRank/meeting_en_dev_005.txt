@@ -1,0 +1,50 @@
+(person7) no it it doesn't work for me so i tried to create some fake time stamps and try to emit this like kind of instruction message so my it didn't work for me.
+i would create the file with time stamps and use [person2]'s replay scripts to to to feed it to ab client and to the presentation workers.
+so what i'm afraid this time the first so so like we have much depl- language tabs like we have english, we have czech-
+so today at the same time we are also having the [organization6] promoting so what do you want to do with that?
+(person7) so i just e-mailed you and i think it's better to e-mail [person9] that i will-
+i was happy to fight for that the quality is something which is hard to gain and and all that.
+and the simultaneous time is the is the problem.
+the idea is you usually bypass the mtray- m3u8 url putting the frame in the [organization5] server which expose also the ssl certificate.
+prepare the ffm peg command which streams the video file and both provides the inputs to an ab client client on the server.
+and this is how the ab client gets the gets the sound.
+[person6] anyone with the access to the [organization5] exposed server could run this pipe because you just need the ffm peg installed, video file if you would like-
+but i think the most critical part is to identify the video file and to start performing test of-
+(person12) i tested i tested a couple of ones but the one, specifically the link but i link one specifically was i think possible to follow.
+so the the channels that we have or the videos that we have recommended was this [organization3].
+so so i agree with what [person6] suggested that [person4] and [person12] should focus on the selection of the input.
+so the plan b, that i have with [person7] is that we will use this standard youtube included youtube iframe within the presentation platform.
+instead it will only show the the video, the pre-recorded one that we want to subtitle.
+the instructions would be like look at the subtitles now, we will do a countdown for you and on the click when you see the word click you need to click the play button on the video.
+and that way we can start the show at the same time on our side where it the recognition will start.
+so that people would select all the languages and then they will see the subtitles telling them scroll back to the starting point, if the if the video has already started yet.
+and we could simply say that this is due to the fact that we want to show real youtube videos and we would have to clear copy rights to to re-broadcast them.
+and immediately the full pipeline will start and this has to be tested so that the delay is like known how long it takes.
+and if there could be client it's working, i'm now putting it together with the other piece of the pipeline.
+so what we will do is we will we should demo the system transcribing and translating our speech as the meeting goes.
+this is just this is just the that [person7] needs to start the machine to follow the sound output whatever is being played.
+is also immediately recognized and sent to the like in the in the pipeline.
+[person6] ok, so that you are already able to catch the audio from the let's say-
+(person9) and [person4] and [person12] should select the video and test the the performance.
+and friday is a national holiday in the czech republic, i don't know if if it's the same for you.
+i think that probably the project officer also knows that both we online text flow and the presentation platform are developed for face to face conferences.
+in the set ups directory are stored all the [organization5]'s scripts used in the various testing we did during the project years.
+is it possible for us to look in on the https web server, the [organization5] the [organization5]'s one?
+1 machine to run the set up and the other machine i think to inter- to talk with vs.
+for the plan c and as as each access to the expose the server is required.
+but in order to practice we should be able to write the video playlist file which is the m3u8 directly in the public directory.
+(person10) so yea the the aplica- this ffm peg pipeline needs write assess to the publicly exposed directory.
+it is not strictly required that the machine is the same if somehow the the discs are available on the network on the inside.
+[person6] ok when i run it, it starts preparing smaller ts files which are the segments of the playlist.
+i can refer to the index m3u8 file which is the the index of the playlist.
+but [organization5] and having the self signed certificates requires that each one who would like to access to the to the signed content needs to accept this certificate.
+i'm going to search for the for the text input for presentation platform for you.
+the project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation-
+or we can put the video in the presentation platform which actually has the the box.
+you will have the problem that you are on the conference call, streaming the audio, streaming the video.
+[person6] because he <unintelligible> not a plan plan c in any case we need to be able to access to the published to the public server.
+(person7) so i i'm saying that i just shot an e-mail to [person5] and if he can join us for the meeting then we will be able to fix audax quickly.
+(person12) ehm i think as long as you have a set up that i can use to test the videos and ok, i'm actually-
+[person6] so that at least i should be able to prepare the the call link for the call for for all the participants so that at least we spend this kind of task.
+(person7) and you will for plan b it is so so you will show me how to insert test text into the [organization2] presenter [organization2] presentering.
+i just sent the e-mail and i keep testing my idea and when the idea is more than idea and actually it works, i with you this command.

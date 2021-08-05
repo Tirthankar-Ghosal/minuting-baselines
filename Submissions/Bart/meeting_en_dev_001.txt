@@ -1,0 +1,62 @@
+ Neurophysicist: "i think now we have everything what we have promised, for, for this grant" Neurophysiologist: "I think that now you should hear us better.
+I can barely hear you.
+The default micro-, surely the default micro- microphone is the camera mic- mic mic-phone mic" The book has been written to the debiassing which i don´t think it´s trully ready .
+The rest of the book or as rest of my chapture now should be kind of (okish) ready .
+The multilinguality section of the book is still being read by the group .
+The group of people discussed the definition of the "odborná kniha" The group then decided to sign the book .
+It looks better if we refer to our work in, in the same way as, as, the other, as the other .
+If you refer to your papers as someone else´s paper it looks like, what do you call it in english, like don´t appeal to authority which is not there like...
+You are biass words your own papers and i think that -.
+I think that the reader has the right to know that .
+The reader should know that, and by pretending that like or pretending, nice, refering to the paper as someone else´s paper you i (disbiass) from the reader .
+If you really want to be a "[organization2]" write some of us and [person16] -.
+                                                referred to [person2] and <unintelligible> the reference .
+But i think you can just write we and, if the reader is interested in [person] precisely are that, there´s the citation .
+The section about the neural language models should maybe be merged to the previous chapture or deleted if it´s (superfilus) The language models started 15 years before [project2] and neural language model works in, the previous chapter .
+The first part, um, is com-, i think it can be viewed as complete and in the - there are some to do things there but i think there are like optional things that we could write about if we read them carefully and so on .
+But then probing is not finished, unsupervised methods - and to probings need to be merge...
+These are just notes from my theses proposal .
+These are some other notes as well .
+The meeting was organised to discuss how to analyse behaviour and interactivity .
+The code was created by a programmer .
+There should be some summary slide at the beginning of the book, but i don´t think that, that´s relevant for the book at all .
+He was talking about how to come up with hypotheses that can be later quantitatively tested .
+In the <unintelligible> or i can show you the probe complexity and probe quality and compare them to those of the papers from 2020 and i haven´t read them yet .
+[person2] and [person7] didn´t get the thing what, what, was talking about .
+In case of biass detection you´re constructing a supervise data set yourself and that´s the supervision, right .
+You´re like -.
+like there have to be a person who decides if, if...
+if - a person decides if ...
+who decides the examples...
+but yeah, maybe it´s something but doesn´t really (thinking) to this .
+The text is still copied from, from your - preferred person19 - but i don´t know if somebody touched it .
+The text looks like my text, but it looks like it's like my own text .
+People in the machin-, um, in, in nlp community started to be interested in interpretability only, only recently .
+There´s no general consensus on what interpretation means, and this is not discussed in, in the nlp community but in the machine learning community .
+The first part of the book is the introduction kind of and the second part are the findings of findings .
+The third part is there because it was in a template .
+The only chapture of the third part, the summary .
+The first chapture can be hidden in the, the embeddings.[person9] and hidden in .
+the contents attentions and effective mechanism for word element and .
+relations need to be (sheltered).
+The first real chaptures can be .
+hidden in, the first part of the book .
+The title isn´t story about the content .
+The book is almost finished, but it´s almost finished .
+It has no appendix and a geographic glossary .
+The text starts at the beginning in roman numbers .
+Parts of the book that you can read can be read and (ready) comment .
+The ideal comments for me would be what to remove from the chaptures .
+The project6 meeting was written on july 21th July, but [person6] this is having all the tuesdays.
+The next meeting will be on July 21th.
+The meeting will take place in two weeks .
+The book is due to be delivered at 11 July 21 at 11:30am GMT .
+The book was written by a group of people who were invited to meet and comment on the contents of the book .
+The group agreed to postpone the meeting until the end of July .
+The book is supposed to be finished in the first week of the first month of the book .
+The book will be presented at a meeting in [project3] meeting in <unintelligible> so we have to, yeah, find the reviewers .
+The email was like come and have a drink in the middle of the work day .
+The email said: 'Come have a short break from working and let´s have wine' Someone who could review our book is also working for someone else in nlp .
+We should have the name next before we, so that we can start reviewing process .
+We don´t know if there are some people who are <unintelligible> do you know them? Someone from [location3] can see more inter-, like more <unintelligible> area of interpretability and [person22] can only see nlp and other - or other - things like [project4] and there is also a review of the book .
+Someone would like to see many, many comments there .

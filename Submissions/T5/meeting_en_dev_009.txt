@@ -1,0 +1,24 @@
+i was asked by [person13] to give her presentation on [project1] on the monday seminar so as from subtitling we are expecting to describe of what we are doing regular talk .
+the goal of office would obviously be obviously to describe the pipeline say where there problems and to invite more people to join us .the students firm fair is an important event for data collection .
+last year we were only reusing the system from organization4 and it went for single minute of the two days .
+for that march we would highly benefit from having some profanity filtering .this week i work on do the collection is business for [other1] and english .
+i need clean all the data because some duplicate sentences and some other garbage values .
+(person6) i think he was busy exams all times .i believe in the putting up the unintelligible> top of the list .
+the list will never be complete and it will contain only higher frequency words .
+i think that we could do it monolingualy and use back translation to create the other part .the tool that does this filtering should actually be regularly checking this has appearance some list .
+so we can immediately prevent unintelligible> respond of them .
+in the tok on tuesday [person3] didn't say "soupatko" again so the scrotum did not reappear .i think that it would still be interesting to run your forced alignment of this data and we you can now use the existing time stamps to break the long recording into shorter ones .
+so that you see whether it like cashes up with these shorter segments .
+and now let's move to those who are present remotly .
+(person5) yes, yes.
+i have been listening .i'm working on a next version of the czech asr system that should be trained on even more data .
+i think this the improvement [person3] talk it's very good one so definitely deserve to be listed .
+please enter your achievements also into the google sheets .i also trained the transformer converting the phonings into graphians and i tested to the settings .
+but the results were at least for some [organization2] talks they were really bad because the corpora on which the transform were trade was trained is for casual speak .
+so that's actual translation with the with the transformer was quite bad and the transform-hallucinated some words .
+i think that [person1] made be more responsive these days .i don't know if the rest of team has ever met you in person.
+maybe not .
+[person14] has already worked on the project last june when he was helping us to put all the (byplans) together .
+i think you work on paraphrasing and i just waited for a virtual machine .i saw that there's any paper from [organization3] from december and it is called fastspeech.
+have you have you seen it? i just tried it today and it's just basicly sais that it s like three hundred times faster for asr .
+they also say it is robust and dust nearly eliminates words keeping unintelligible> which is also interesting .

@@ -1,0 +1,43 @@
+so you have to unute unmute yourself, but i can see that you have joined. yeah, or enough in in a couple of minutes. <laugh>
+i don't know whether the picture is frozen or [person2] is frozen. <laugh>
+so good to uh, um, good to uh, good to have you all all of you here. uh, here is the organization of the iwslt presentations. (person2) no, i haven't done any steps and decisions,
+i thought sort of you'd ask with doing it-
+(person3) yeah. <unintelligible>.
+(person2) so they have-
+i've tried to remember. (person2) okay, so that's taken care of then i guess. (person2) for the for the decisions of-
+so for what i've understand understood from [person22], it's <unintelligible> wanted to know
+and 24 was everything sort of. so hopefully there is only one slot for us to present the overall results
+and the rest is hopefully done across all the tasks. just the question who is this me firefox cross? <laugh>
+well, lets hope, that there is no sp- yep. but there is lot of things that we have to discuss. uh, so that it we would get an estimate from you  um, uh,
+and we would also like double check that you are sending as the numbers, that we understand
+uh, and uh, that we can put it together
+and that everything makes sense already before the uh, the final dates. the only thing is um, that we're not turn out to see the numbers from our colleagues, all the salaries. (person12) okay, okay, great, we will do this. (person3) either, yes, either you, or i thought that it could even be [organization10].
+because it is a workshop, which was planned and it will happen,
+once once it happen, once it happens for lay people. so for people not uh, not familiar with nlp technologies at all. the reviewer on spoken language translation, which is overseen by [organization7] is also missing. (person12) um, thanks again, for for for saying that we need more input. um, especially what we were we need especially more input is in the scientific dissemination part
+and the workshop and nlp technologies. when we published a papers and and name [project3] is is not <unintelligible> should be put in <unintelligible>.
+(person3) uh, that's a good question. (person19) so should we put a papers into this document? they're like uh, if you have an invited talk at the conference uh,
+then this is what what would not appear in open air. i would put here all the things that uh, are not associated with the paper. it's the way to go i just don't fully know how it works. uh, okay, so uh, uh, for back to the deliverables. um, the uh, so we have reviewers for uh, everything except the project management guide initial and updates. (person15) uh, might it would not be me, i guess it would some of our developers. uh, so i have to talk to <unintelligible>.
+(person3) it will be it it will be-
+that's as i said, the workshop is for people not familiar with nlp. and we need to submit all these deliverables uh, uh, at the latest on june, on the last of june. and there will negotiate with with the respective reviewer to to-
+we will buy some extra time for from them. so if you have any questions,
+any any like problems with partners, not contributing to your deliverable, please, mention that. uh, uh, so one thing, which is still not fully clear to me, is that this uh-
+we will write the report the the the 7.2
+uh, uh, about all the preparations uh, and stating that the workshop has actually not taken place. but uh, uh, [person6] also said,
+that they are proposing a partial report for milestones
+because they are also associated milestones,
+um, uh, and uh, these milestones normally do not have report. these are milestone for the events, which were postponed. the but the now at the same time,
+we received this information, that we leave that milestone. so uh, if you have missed that information. it's from 30th of may to the 3rd of june 2021. and then uh, on monday, or tuesday the latest,
+uh, let's have the dates um, um, ready the options, ready for [person6].
+and let's give them the-
+uh, i'm pushing this earlier as because like we are getting quite far into june,
+since there would be again some delay,
+1 day until they decide, what they what they they would prefer. and uh, there are 2 messages, that i uh, like take from this. (person19) <unintelligible>.
+(person3) uh, yeah, uh, if i'm not mistaken. uh, okay, so that's good, we know what to do. (person19) yeah, i mean [person3], you're you're basically asking again you're asking for sort of more professional software setup. (person19) really, you're asking for a staging in a production and development-
+(person3) yeah. so if you, so we had that we had this like a surge of activity,
+when people were really trying to help the demo. (person17) i <unintelligible> that feel like that is not ready for this demo. (person17) this there is no worker that does this yet and-
+(person3) um-hum. so that's uh, my idea, that for the demo and other like important things. so i don't know if [person8] is aware any date until we should make our uh, mind. (person19) um, we make it, the opportunity later. (person19) this it's really no harm, even if you know, we are not actually spending much money in that time. (person2) <unintelligible>.
+(person3) okay. okay, so uh s
+<parallel_talk> we will uh, decide uh, on june 8 and ask for the extension before uh,
+or what is too soon (10). and this is for us to uh, make use of the iwslt shared task to choose the best systems, that we have at at hand
+and also to validate, whether we have screwed up the evaluation or whether it is uh, actually correct. [person3] will send uh, slt findings uh, findings pdf. uh, and uh, we will also try to uh, include in this video uh, a demo of the of the system as it is,
+uh, live uh, subtitling some of the videos, that w- are planned for demo, for the p- for the project officer anyway. so that's seems like uh, we're at the end of of the agenda.

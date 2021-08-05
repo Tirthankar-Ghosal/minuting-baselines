@@ -1,0 +1,50 @@
+but i i guess, that would be to very <unintelligible> with - (person3) to (file) <unintelligible> but that was too quick for uh, for the decision and he had to uh, respond immediately.
+uh, uh, so let's start with the um, um, with the uh, uh, the the postponed review.
+uh, so that it we would get an estimate from you  um, uh, and we would also like double check that you are sending as the numbers, that we understand uh, and uh, that we can put it together and that everything makes sense already before the uh, the final dates.
+and from that point, uh, until the end of august, we have to finalize it and send it as as 1 of the report, or maybe (fill) it in uh, in the online system, so that the eu knows.
+(person3) that's the purpose- (person12) yeah, that's- (person3) that is the purpose that is the purpose of the the like dry run, uh, uh, which uh, which was due uh, end of may.
+uh, so it could uh, thanks for volunteering, i'm i'm searching for uh, the appropriate uh-huh, appropriate <unintelligible>, but it's- i have to see it elsewhere, so that i don't disturb in my office and that's pretty annoying.
+uh, so the uh, the reviewer for - and we don't uh, yeah.
+so it- we should report all the papers somewhere and maybe these dise so so a definitely, we need to collect all the information, ideally bibtech uh, uh, entries from my point of view.
+(person8) so only if you went- if you were attending a conference, i think, we have put it here, but otherwise if we just were, well, if there was a paper we- (person19) i i understood, that some kind of semi-automated system for getting papers and the eu units open (ira) or something like that.
+so we'll we'll check the open air uh, thing and we'll check how the the uses that um- it's possible, i remember that in the past projects, such as in <unintelligible>, you've asked us for bibtech entries uh, of the papers.
+so [person21], please make sure that we we do it, that we examine like what has to be done, and we'll let you know in a week or 2 uh, in what format we need your papers.
+so maybe, if we figure out the official format better, then uh, we can ask you for the appropriate format right away, or possibly, if your universities have uh, a system, which already handles these papers, then it may get to open - i don't really know what open air is.
+i'm not going to open the overleafs now, but you have the overleaf links here, and uh, all the main authors responsible sites know, what uh, what is the status uh, of each of these deliverables.
+so that the reviewer has uh, 2 weeks to uh, to processes that uh, and then you have 1 week to incorporate the changes.
+uh, uh, so one thing, which is still not fully clear to me, is that this uh- we will write the report the the the 7.2 uh, uh, about all the preparations uh, and stating that the workshop has actually not taken place.
+i'm still waiting for the all-clear report and  with a all uh, service have come up successfully again, some of the uh, file service, we are still doing file system checks, but it looks like we should be back to operation walls.
+so uh, there is still the risk, that every- that something will will fail, but i think that it is now good time to uh, to ask for the uh, date, uh, for the new date with the project officer, right?
+so that we like uh, with with a large number of dates, that we reduce the number of dates, that we offer to the uh, project officer.
+uh, so it seems like uh, uh, the best week for the demo would be if around the 15th like from in the 2nd half of june, essentially.
+yeah, so that's- uh, if if we send uh, [person6] the options uh, very early next week, then uh, the choices validate from uh, the uh, 2nd half of june would make sense.
+so the demo will tentatively take place in in on 1 of the days um, uh, of the  uh, in the 2nd half of june.
+uh, okay, uh, s- yeah s- so with the demo, there we have uh, had some very interesting experience ourselves uh, all of us uh, in the technical team.
+(person3) yeah, so we will so we will investigate what exactly can we do and we'll try to package our systems and get back to [person8] and uh, and also [person14] for for this system.
+and uh, i think, that it would make sense uh, if uh, if we made sure, that the asr systems could be run at [organization5] and the translation systems in [organization7].
+(person19) <laugh> (person3) <laugh> so that was the 1 thing, that i've learnt, that we must not uh, that that we must have uh, rep- replicated uh, components across the site.
+because the whole uh,  pipeline is pretty complex and the interdepencies interdependencies are are very like uh, the the it's it's sensitive to to all the little details.
+so uh, uh, so maybe, uh, uh, obviously, we are not a software company and uh, our resources for these are limited.
+uh, to to put it in our terms, or to put it in our setting, uh, is the main message, that i would like to ask all the partners to avoid doing any updates to their workers shortly before the demo.
+(person3) uh, so um, and at the same time  uh, we we want to test the uh, the uh, components uh, better components because i know, that [person14] had something which could be very uh, very promising for the asr, right?
+uh, so uh, what i wanted to say is that we are finally getting to that like kind of regular testing of the systems integrated in the pipeline, so that we are- when we are starting a pipeline.
+and we will be regularly running different set-ups, uh, and uh, the the frozen fingerprints would be then uh, the thing to demo.
+and for uh, the so and we would obviously move uh, like a research fingerprint to a to a frozen fingerprint, only when we are confident, that all the components are are stable and they play well together.
+so uh, so starting with this uh, big uh, the software engineering uh, request to properly separate diploid versions and and then the still like the the proper staging of of the systems.
+uh, yeah, so this is uh, so this this is uh, the the message, that i wanted to uh, to tell you.
+but at this point uh, i hope, that uh, uh, that [person1] is on top of this and that we know, which uh, fingerprint paths do we want to demo for the various um, input documents.
+so uh, if [person4] could uh, also propose uh, dates for uh, the dry run c- uh, calls for like demo uh, sessions uh, before the demo.
+obviously, this is like a uh, the th- over- overfitting, this is this is already uh, cheating uh, in terms of um, uh, like showing the real the real performance, but i think, that uh, we can do in the demo we can do for example the same video uh, presented twice.
+once with the like properly devset chosen uh, system and for the 2nd time uh, using the test uh, set chosen system, which is the the cheating.
+and uh, the uh, the reason to uh, uh, to do this uh, including w- with the knowledge of the reference transcript and reference uh, translations is to give the viewers and also ourselves uh, a chance to see the relation between the number in the score and the actually preserved quality.
+so uh, please, let me know if you if you are opposed to this approach, but i think it's uh, it's better for everybody to to know, what is the- this is <unintelligible> benchmark, how far can we get.
+so the main message is that we will have a number of demo uh, dry run sessions again and the date for the demo will be chosen uh, and uh, we will choose and freeze um, the the fingerprints for the demo.
+i've mentioned that already in in the previous call if i'm uh, not mistaken, but i know, that we have not maken uh, we have not made any steps to that.
+(person19) but i mean that the the consequences the deliverables are delayed, the final reviews are delayed and i assume, that means the final payment is delayed.
+yeah, so that's that's probably what what will be the final result, that we will ask for 2 or 3 months extension of the uh, of the project.
+and this is for us to uh, make use of the iwslt shared task to choose the best systems, that we have at at hand and also to validate, whether we have screwed up the evaluation or whether it is uh, actually correct.
+uh, so uh, lets simply- yeah, <parallel-talk> review the methodology uh, uh, lets use one of the dry run uh, demos uh, sessions for this.
+the deadline for the recorded uh, demo is alread- it's the 17th of june and uh, the idea is that probably [person20] will present uh, that uh, with s- like a s- screen sharing uh, recorded with uh, little not avatar, but [person20] [person20]s head himself in in the corner of of the slide.
+uh, and uh, we will also try to uh, include in this video uh, a demo of the of the system as it is, uh, live uh, subtitling some of the videos, that w- are planned for demo, for the p- for the project officer anyway.
+uh, so in one of these dry run session, we'll also record what what we are delivering and we'll include it in the uh, in the iwslt uh, presentation.
+uh, a number of doodle pools is to come uh, for the uh, for offering the slots to the project officer, for the demo and for the regular dry run sessions, where we will also sort out the technical uh, or discuss the technical uh, things, we've learnt from iwslt submission.

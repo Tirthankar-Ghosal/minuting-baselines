@@ -1,0 +1,22 @@
+"person4" is trying to fix the program in overleaf .
+i'm trying to figure out what's wrong here, because it's, it works kind of on my machine .
+we have to put them also the [organization3] presentation platform .the deliverable summarizes presentation platforms of live, transcripts .
+it's too bad, that i- one, two, three, four just joined .
+i think it is important to describe the internals in some way .we need to follow the requirements in the description of work and the d platform updates .
+if you are looking i'll copy that, so this publishable is going to be public .
+we probably don't have anyone to revi-, so we're now looking at the [project1] sheet .cnn's john sutter will spend the afternoon preparing for eamt .
+he's also preparing the acl paper and the progress to the template .
+the deadline is very soon, and we have just a week to submit .cnn's john sutter wants to reuse and reuse the content of the six one .
+he's emailing colleagues in [organization6] who could review the deliverable .
+the content should be there towards the end of the next week, he says .overleaf doesn't compile, but you can work on plain text content .
+if you clone it and there is even a make file, it will compile .
+"i don't know why it's fading here," says person6 .acl demo paper is now linked from the overleaf document .
+(person4) i'll modify the make file as long as you don't have any references .
+if they say "well, we can do it in two months from now," send an email .make git at the six one preview makes .
+if people are editing, it will become impossible for you to commit your work .
+"i cloned the git repo, i've just pulled all the last modifications"tlmgr is a pvs maker, but you'll probably have to figure it out .
+tex live dash is the maker of the pdf .
+it's a package manager, not a software maker .cnn's john sutter is trying to find a package for acl's presentation paper .
+he's copying it over to a git repost so that he can compile it .
+at some point, he will finish the overleaf and pull your modifications locally .yes, thank you very much and hear from you later .
+bye bye (person7)
